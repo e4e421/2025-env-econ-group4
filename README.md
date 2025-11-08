@@ -4,7 +4,9 @@ Thursday, December 17th - submit final report
 
 ## Submission
 o	Roadmap:  latest week 7 (November 27th), 11:00 am (formative)
+
 o	First draft:  latest week 10 (December 8th), 11:00 am (formative)
+
 o	Final report: Thursday, 18th December 2025, 10:00 am (summative)
 
 ## Assessment
