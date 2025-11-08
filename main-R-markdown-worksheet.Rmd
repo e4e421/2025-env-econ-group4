@@ -3,3 +3,8 @@ title: "Main R markdown workbook"
 output: statsr:::statswithr_lab
 ---
 
+::: {#welcome}
+This is a template Rmd file, feel free to push code and update this Rmd file.
+:::
+
+Welcome!
