@@ -1,0 +1,5 @@
+---
+title: "Main R markdown workbook"
+output: statsr:::statswithr_lab
+---
+
