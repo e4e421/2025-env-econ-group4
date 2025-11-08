@@ -16,7 +16,7 @@ o Final report: Thursday, 18th December 2025, 10:00 am (summative)
 
 Assessment 1 - Group Coursework (40%). File formats accepted are .doc, .docx. The deadline to submit is 10:00hrs Thursday 18th December 2025. Provisional marks will be released on or after Thursday 29th January 2026.
 
-Assessment 2 - In-person Mid-term Examination (30%). Tuesday 11th November 2025. Provisional marks will be released on or after Tuesday 9th December. 
+Assessment 2 - In-person Mid-term Examination (30%). Tuesday 11th November 2025. Provisional marks will be released on or after Tuesday 9th December.
 
 Assessment 3 - In-person Final Examination (30%). The University Assessment Period 1 schedule is: Friday 9 - Thursday 15 January 2026. Specific dates will be released by the University Exams Team in November. Provisional marks will be released on or after Monday 16th February 2026.
 
