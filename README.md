@@ -1,5 +1,6 @@
 ## Important dates
 Monday, November 17th - submit database choice
+
 Thursday, December 17th - submit final report
 
 ## Submission
@@ -22,4 +23,5 @@ The next milestone is that you select and submit your choice of a specific polic
 
 ## Additional learning resource
 R and R studio: [Learn R in 39 minutes](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
+
 Github: [GitHub Basics Made Easy: A Fast Beginner's Tutorial!](https://www.youtube.com/watch?v=Oaj3RBIoGFc)
