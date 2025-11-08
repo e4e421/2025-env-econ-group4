@@ -1,3 +1,7 @@
+## Final report
+
+Our final report in docx format can be found and edit online via [this link](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd) . Because GitHub does not work well with docx editing, we can do everything in Rmd file first and then change it to docx and put into the document link above.
+
 ## Important dates
 
 Monday, November 17th - submit database choice
