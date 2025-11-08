@@ -4,7 +4,30 @@ output: statsr:::statswithr_lab
 ---
 
 ::: {#welcome}
-This is a template Rmd file, feel free to push code and update this Rmd file.
+This file can be used as final report file. Feel free to push code and update this Rmd file.
 :::
 
-Welcome!
+# Introduction
+
+This is the data report for Environmental Economic module Data report group 4, team member includes **Tanmay Kharmarbha**, **Marvin Lee** and **Wei-Ting Tan**. We choose R as main programming language and GitHub as version control tool. All work files are stored and synced via GitHub under account of e4e421(Marvin Lee), using .Rmd file as main R code workbook for every member to update to.
+
+## Workflow process and task devision
+
+Our group
+
+### Tanmay Kharmarbha
+
+-   Code check
+
+### Marvin Lee
+
+-   GitHub maintenance
+-   
+
+### Wei-Ting Tan
+
+-   Data interpretation
+
+# Log book
+
+**Nov 8, 2025** - (Marvin) Create this file. Set GitHub repository. Set GitHub access.
