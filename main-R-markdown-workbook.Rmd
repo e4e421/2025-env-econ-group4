@@ -4,7 +4,7 @@ output: statsr:::statswithr_lab
 ---
 
 ::: {#welcome}
-This file can be used as final report file. Feel free to push code and update this Rmd file.
+This file will be the main work file for our data report, and later be changed to docx. file for submission. Feel free to push code and update this Rmd file.
 :::
 
 # Introduction
