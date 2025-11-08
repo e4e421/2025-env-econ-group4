@@ -20,3 +20,6 @@ before our next lecture/seminar next Thursday.
 
 The next milestone is that you select and submit your choice of a specific policy, e.g. China's Carbon Trading Scheme, or database, e.g. EU Pollution Registry, of your choice by Monday, November 17th. Feel free to reach out via email if you would like to discuss your choice.
 
+## Additional learning resource
+R and R studio: [Learn R in 39 minutes](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
+Github: [GitHub Basics Made Easy: A Fast Beginner's Tutorial!](https://www.youtube.com/watch?v=Oaj3RBIoGFc)
