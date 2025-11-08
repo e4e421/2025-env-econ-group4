@@ -1,5 +1,3 @@
-<img width="468" height="653" alt="image" src="https://github.com/user-attachments/assets/78fc5187-c0dc-4a32-abd3-0c0fdd147b07" /># 2025-env-econ
-
 ## Important dates
 Monday, November 17th - submit database choice
 Thursday, December 17th - submit final report
