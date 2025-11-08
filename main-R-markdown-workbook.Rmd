@@ -30,4 +30,6 @@ Our group
 
 # Log book
 
+**Nov 11, 2025** - (all) Choose database source. Devide task.
+
 **Nov 8, 2025** - (Marvin) Create this file. Set GitHub repository. Set GitHub access.
