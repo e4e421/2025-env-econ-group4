@@ -1,6 +1,6 @@
 # Key steps
 1. Find a topic (Emission Contributor in contentnent and cities, and their policy)
-2. Submit group topic
+2. Submit group topic ([Link to KEATS submission page](https://keats.kcl.ac.uk/mod/assign/view.php?id=9308925))
 3. Choose a database (focus on [Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb)
 4. Submit roadmap
 5. Download database
