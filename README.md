@@ -1,7 +1,7 @@
 # Key steps
-1. Find a topic (focus on [EDGAR](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps))
+1. Find a topic (Emission Contributor in contentnent and cities, and their policy)
 2. Submit group topic
-3. Choose a database
+3. Choose a database (focus on [Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb)
 4. Submit roadmap
 5. Download database
 6. Clean data, check outlier and tackle blank
