@@ -3,12 +3,12 @@
 2. Submit group topic ([Link to KEATS submission page](https://keats.kcl.ac.uk/mod/assign/view.php?id=9308925))
 3. Choose a database (focus on [Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb)
 4. Submit roadmap
-5. Download database
+5. Download database (done)
 6. Clean data, check outlier and tackle blank
 7. Always update to GitHub (preferably use [GitHub desktop](https://desktop.github.com/download/))
 8. Write analysis code in Rmd file
 9. Generate graphs to assist our interpretation
-10. Write interpretation in word doc
+10. Write interpretation in word doc ([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd) )
 11. keep happy
 
 ## Final report
