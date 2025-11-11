@@ -9,6 +9,7 @@
 8. Write analysis code in Rmd file
 9. Generate graphs to assist our interpretation
 10. Write interpretation in word doc
+11. keep happy
 
 ## Final report
 
