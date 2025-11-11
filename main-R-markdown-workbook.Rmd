@@ -29,7 +29,8 @@ All data cleaning and manipulating process need to be tracked and documented. Fo
 ### Tanmay Kharmarbha
 
 -   Lead programmer
-    -   Run code checks
+    - Coding for data organisation with R studio
+    - Run code checks
 
 ### Marvin Lee
 
@@ -41,7 +42,7 @@ All data cleaning and manipulating process need to be tracked and documented. Fo
 
 ### Wei-Ting Tan
 
--   Data interpretation
+-   Data interpretation and policy research
 
 # Log book
 
