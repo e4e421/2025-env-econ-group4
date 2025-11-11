@@ -1,5 +1,5 @@
 # Key steps
-1. Find a topic
+1. Find a topic (focus on [EDGAR](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps))
 2. Submit group topic
 3. Choose a database
 4. Submit roadmap
