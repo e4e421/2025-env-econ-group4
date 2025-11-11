@@ -1,3 +1,15 @@
+# Key steps
+1. Find a topic
+2. Submit group topic
+3. Choose a database
+4. Submit roadmap
+5. Download database
+6. Clean data, check outlier and tackle blank
+7. Always update to GitHub (preferably use [GitHub desktop](https://desktop.github.com/download/))
+8. Write analysis code in Rmd file
+9. Generate graphs to assist our interpretation
+10. Write interpretation in word doc
+
 ## Final report
 
 Our final report in docx format can be found and edit online via [this link](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd) . Because GitHub does not work well with docx editing, we can do everything in Rmd file first and then change it to docx and put into the document link above.
