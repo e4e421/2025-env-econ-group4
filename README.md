@@ -1,27 +1,37 @@
 # Key steps
-1. (__done__)Find a topic (Emission Contributor in contentnent and cities, and their policy)
-2. (__done__)Submit group topic ([Link to KEATS submission page](https://keats.kcl.ac.uk/mod/assign/view.php?id=9308925))
-3. (__done__)Choose a database (focus on [Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb))
+1. (_done_)Find a topic (Emission Contributor in contentnent and cities, and their policy)
+2. (_done_)Submit group topic ([Link to KEATS submission page](https://keats.kcl.ac.uk/mod/assign/view.php?id=9308925))
+3. (_done_)Choose a database (focus on [Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb))
 4. Submit roadmap
-5. (__done__)Download database
+5. (_done_)Download database
 6. Examine database for potantial insights
 7. Clean data, check outlier and tackle blank
 8. Always update to GitHub (preferably use [GitHub desktop](https://desktop.github.com/download/))
 9. Write analysis code in Rmd file
 10. Generate graphs to assist our interpretation
-11. Write interpretation in word doc ([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd) )
+11. Write interpretation in word doc ([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd))
 12. make a report referencing visual from COP30 report ([link](https://github.com/e4e421/2025-env-econ-group4/blob/f04107b0c5df147f9c31b225540ea7bc29b8c430/Support%20documents/Sample%20report%20visual-State%20of%20the%20Climate%202025%20COP30%20(31%20oct).pdf))
 13. Draft report submission
 14. Final report submission
 15. keep happy
 
+# Data structure of this GitHub repository
+- Please ignore files start with a dot(.) those are binary file for computer to read. (i.e. __.DS_Store__ and __.Rhistory__)
+- __main-R-markdown-workbook.Rmd__ ([Link to file](https://github.com/e4e421/2025-env-econ-group4/blob/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/main-R-markdown-workbook.Rmd))
+  - For main R coding, dataset working directory(for local file retrieval) set by and maintained by lead programmer Tanmay.
+- __EDGAR_emiss_on_UCDB_v2024.csv__ ([Link to file](https://github.com/e4e421/2025-env-econ-group4/blob/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/EDGAR_emiss_on_UCDB_v2024.csv))
+  - Our choosen dataset, downloaded from [EDGAR - Emissions Database for Global Atmospheric Research: Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb) in 11 Nov 2025 by Marvin
+- __Supprot documents folder__ ([Link to folder](https://github.com/e4e421/2025-env-econ-group4/tree/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/Support%20documents))
+  - Containing reference pdf files downloaded from KEATS
+  - __Sample report visual-State of the Climate 2025 COP30 (31 oct).pdf__ ([link to file](https://github.com/e4e421/2025-env-econ-group4/blob/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/Support%20documents/Sample%20report%20visual-State%20of%20the%20Climate%202025%20COP30%20(31%20oct).pdf)) is our reference file for fianl report formatting. (file downloaded from [link](https://wmo.int/sites/default/files/2025-11/State%20of%20the%20Climate%202025%20Update%20COP30%20%2831%20oct%29.pdf) in 12 Nov 2025 by Marvin)
+
 ## Final report
 
-Our final report in docx format can be found and edit online via [this link](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd) . Because GitHub does not work well with docx editing, we can do everything in Rmd file first and then change it to docx and put into the document link above.
+Our final report in docx format can be found and edit online via [this link](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd). Because GitHub does not work well with docx editing, we can do everything in Rmd file first and then change it to docx and put into the document link above.
 
 ## Important dates
 
-Monday, November 17th - submit database choice
+(_done_)Monday, November 17th - submit database choice
 
 Thursday, December 17th - submit final report
 
