@@ -1,18 +1,19 @@
 # Key steps
-1. (done)Find a topic (Emission Contributor in contentnent and cities, and their policy)
-2. (done)Submit group topic ([Link to KEATS submission page](https://keats.kcl.ac.uk/mod/assign/view.php?id=9308925))
-3. (done)Choose a database (focus on [Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb))
+1. (__done__)Find a topic (Emission Contributor in contentnent and cities, and their policy)
+2. (__done__)Submit group topic ([Link to KEATS submission page](https://keats.kcl.ac.uk/mod/assign/view.php?id=9308925))
+3. (__done__)Choose a database (focus on [Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb))
 4. Submit roadmap
-5. (done)Download database
-6. Clean data, check outlier and tackle blank
-7. Always update to GitHub (preferably use [GitHub desktop](https://desktop.github.com/download/))
-8. Write analysis code in Rmd file
-9. Generate graphs to assist our interpretation
-10. Write interpretation in word doc ([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd) )
-11. make a report referencing visual from COP30 report ([link](https://github.com/e4e421/2025-env-econ-group4/blob/f04107b0c5df147f9c31b225540ea7bc29b8c430/Support%20documents/Sample%20report%20visual-State%20of%20the%20Climate%202025%20COP30%20(31%20oct).pdf))
-12. Draft report submission
-13. Final report submission
-14. keep happy
+5. (__done__)Download database
+6. Examine database for potantial insights
+7. Clean data, check outlier and tackle blank
+8. Always update to GitHub (preferably use [GitHub desktop](https://desktop.github.com/download/))
+9. Write analysis code in Rmd file
+10. Generate graphs to assist our interpretation
+11. Write interpretation in word doc ([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd) )
+12. make a report referencing visual from COP30 report ([link](https://github.com/e4e421/2025-env-econ-group4/blob/f04107b0c5df147f9c31b225540ea7bc29b8c430/Support%20documents/Sample%20report%20visual-State%20of%20the%20Climate%202025%20COP30%20(31%20oct).pdf))
+13. Draft report submission
+14. Final report submission
+15. keep happy
 
 ## Final report
 
