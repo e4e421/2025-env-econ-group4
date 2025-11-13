@@ -7,45 +7,4 @@ output: statsr:::statswithr_lab
 This file will be the main work file for our data report, and later be changed to docx. file for submission. Feel free to push code and update this Rmd file.
 :::
 
-# Introduction
 
-This is the data report for Environmental Economic module Data report group 4, team member includes **Tanmay Kharmarbha**, **Marvin Lee** and **Wei-Ting Tan**. We choose R as main programming language and GitHub as version control tool. All work files are stored and synced via GitHub under account of e4e421(Marvin Lee), using .Rmd file as main R code workbook for every member to update to.
-
-## Workflow process and task division
-
-Our group start by identifying the problem, and select a data set. After gathering the data set, we examine missing data
-
-## Data cleaning and manipulating policy
-
-::: {#Example}
-Example text, alter if needed:\
-All data cleaning and manipulating process need to be tracked and documented. For missing numerical value and categorical value, replace with N/A.
-
--   Identify missing values, duplicates, unusual outliers, inconsistent fields, and structural errors.
-
--   We use Z-score to detect outlier.
-:::
-
-### Tanmay Kharmarbha
-
--   Lead programmer
-    - Coding for data organisation with R studio
-    - Run code checks
-
-### Marvin Lee
-
--   Project management
-    -   GitHub repository maintenance
-    -   File version and naming convention control
--   Assistant programmer
-    -   Data
-
-### Wei-Ting Tan
-
--   Data interpretation and policy research
-
-# Log book
-
-**Nov 11, 2025** - (all) Choose database source. Divide task.
-
-**Nov 8, 2025** - (Marvin) Create this file. Set GitHub repository. Set GitHub access.
