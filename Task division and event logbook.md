@@ -23,6 +23,12 @@ This is the data report for Environmental Economic module Data report group 4, t
 
 # Log book
 
-**Nov 11, 2025** - (all) __Meeting__ Choose database source. Divide task. Choosed
+**Nov 14 2025** - (all) __Meeting__  
+- Action item before meeting
+    - look through the emission data sheet, csv file and excel file
+    - think about questions for the data and what you want to know more about, essentially they will be our topics
+    - (for Marvin) design roadmap for the report development
+
+**Nov 11, 2025** - (all) __initial Meeting__ Choose database source. Divide task. Choosed database of EDGAR_emiss_on_UCDB_v2024.csv.
 
 **Nov 8, 2025** - (Marvin) Create this file. Set GitHub repository. Set GitHub access.
