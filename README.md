@@ -1,6 +1,13 @@
+# Report structure
+
+1.  Gather GDP and GNI data from 1970 to 2020 for all Asia countries, calculate the change and compare to Energy industry sector CO2 emission data from the same time frame.
+    1.  Find the decoupling(absolute decoupling, relative decoupling, not decoupling) trend for countries.
+    2.  Rank the decoupling level of countries for highest and lowest.
+2.  Focus on the most and least decoupling countries in Asia, and dive into their economic and environmental performance.
+
 # Key steps
 
-1.  (*done*)Find a topic (Emission Contributor in contanent and cities, and their policy)
+1.  (*done*)Find a topic (Emission Contributor in continent and cities, and their policy)
 2.  (*done*)Submit group topic ([Link to KEATS submission page](https://keats.kcl.ac.uk/mod/assign/view.php?id=9308925))
 3.  (*done*)Choose a database (focus on [Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb))
 4.  Submit roadmap
@@ -23,7 +30,7 @@
 -   **main-R-markdown-workbook.Rmd** ([Link to file](https://github.com/e4e421/2025-env-econ-group4/blob/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/main-R-markdown-workbook.Rmd))
     -   For main R coding, dataset working directory(for local file retrieval) set by and maintained by lead programmer Tanmay.
 -   **EDGAR_emiss_on_UCDB_v2024.csv** ([Link to file](https://github.com/e4e421/2025-env-econ-group4/blob/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/EDGAR_emiss_on_UCDB_v2024.csv))
-    -   Our chosen dataset, downloaded from [EDGAR - Emissions Database for Global Atmospheric Research: Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb) in 11 Nov 2025 by Marvin
+    -   Our chosen data set, downloaded from [EDGAR - Emissions Database for Global Atmospheric Research: Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb) in 11 Nov 2025 by Marvin
 -   **Supprot documents folder** ([Link to folder](https://github.com/e4e421/2025-env-econ-group4/tree/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/Support%20documents))
     -   Containing reference pdf files downloaded from KEATS
     -   **Sample report visual-State of the Climate 2025 COP30 (31 oct).pdf** ([link to file](https://github.com/e4e421/2025-env-econ-group4/blob/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/Support%20documents/Sample%20report%20visual-State%20of%20the%20Climate%202025%20COP30%20(31%20oct).pdf)) is our reference file for fianl report formatting. (file downloaded from [link](https://wmo.int/sites/default/files/2025-11/State%20of%20the%20Climate%202025%20Update%20COP30%20%2831%20oct%29.pdf) in 12 Nov 2025 by Marvin)
