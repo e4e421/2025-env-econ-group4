@@ -1,6 +1,6 @@
 # Introduction
 
-This is the data report for Environmental Economic module Data report group 4, team member includes **Tanmay Kharmarbha**, **Marvin Lee** and **Wei-Ting Tan**. We choose R as main programming language and GitHub as version control tool. All work files are stored and synced via GitHub under account of e4e421(Marvin Lee), using .Rmd file as main R code workbook for every member to update to.
+This is the data report for Environmental Economic module Data report group 4, team member includes **Tanmay Kharmarbha**, **Marvin Lee** and **Wei-Ting Tan**. We choose R as main programming language and GitHub as version control tool. All work files are stored and synced via GitHub repository under account of e4e421(Marvin Lee), using .Rmd file as main R code workbook for every member to update to.
 
 ### Tanmay Kharmarbha (Head of technical programming)
 
@@ -23,12 +23,9 @@ This is the data report for Environmental Economic module Data report group 4, t
 
 # Log book
 
-**Nov 14 2025** - (all) __Meeting__  
-- Action item before meeting
-    - look through the emission data sheet, csv file and excel file
-    - think about questions for the data and what you want to know more about, essentially they will be our topics
-    - (for Marvin) design roadmap for the report development
+**Nov 14 2025** - (all) **Meeting**\
+- Action item before meeting - look through the emission data sheet, csv file and excel file - think about questions for the data and what you want to know more about, essentially they will be our topics - (for Marvin) design roadmap for the report development
 
-**Nov 11, 2025** - (all) __initial Meeting__ Choose database source. Divide task. Choosed database of EDGAR_emiss_on_UCDB_v2024.csv.
+**Nov 11, 2025** - (all) **initial Meeting** Choose database source. Divide task. Choosed database of EDGAR_emiss_on_UCDB_v2024.csv.
 
 **Nov 8, 2025** - (Marvin) Create this file. Set GitHub repository. Set GitHub access.
