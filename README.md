@@ -1,3 +1,5 @@
+Link to work report document:\
+([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd))
 # Report structure
 
 1.  Gather GDP and GNI data from 1970 to 2020 for all Asia countries, calculate the change and compare to Energy industry sector CO2 emission data from the same time frame.
