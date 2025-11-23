@@ -69,6 +69,23 @@ This is the data report for Environmental Economic module Data report group 4, t
 
 # Log book
 
+**Nov 23 2025** - (Marvin) - submited roadmap (version 1)
+
+**Nov 22 2025** - (all) **Meeting**
+
+- check Professor's data structure
+    - choose to keep one file approach to maintain stability
+- check new scope and research questions:
+(To what extent have major asian countries decoupled CO2 emissions from economic growth over the periods?
+Which economic sectors (Energy, Transport, Industry) have been the primary drivers of successful (or failed) decoupling in these countries?)
+- check data processing and expected visualised graphs
+
+- Task assignment
+    - (Tanmay) Start data analysis from Nov 29
+    - (WeiTing) Research decoupling policy in Asia countries
+    - (Marvin) Compose and upload roadmap file 
+
+
 **Nov 14 2025** - (all) **Meeting**
 
 -   Action item before meeting
