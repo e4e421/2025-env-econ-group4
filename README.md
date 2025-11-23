@@ -1,5 +1,7 @@
 Link to work report document:\
-([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd)) \# Report structure
+([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd)) 
+
+# Report structure
 
 1.  Gather GDP and GNI data from 1970 to 2020 for all Asia countries, calculate the change and compare to Energy industry sector CO2 emission data from the same time frame.
     1.  Find the decoupling(absolute decoupling, relative decoupling, not decoupling) trend for countries.
@@ -85,6 +87,7 @@ This is the data report for Environmental Economic module Data report group 4, t
 **Nov 8, 2025** - (Marvin) Create this file. Set GitHub repository. Set GitHub access.
 
 # Other adminstrative materials
+
 ## Important dates
 
 (*done*)Monday, November 17th - submit database choice
