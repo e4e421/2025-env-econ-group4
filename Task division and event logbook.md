@@ -23,24 +23,36 @@ This is the data report for Environmental Economic module Data report group 4, t
 
 # Log book
 
-**Nov 14 2025** - (all) **Meeting**
+### **Nov 22, 2025** - (all) **Meeting**
 
--    Action item before meeting
+-    time: 13:00-14:00 London time
 
-    -   look through the emission data sheet, csv file and excel file
+-    location: bush house L8 (the legislation lecture room)
 
-    -   think about questions for the data and what you want to know more about, essentially they will be our topics
+meeting agenda:
+-    check Flo data structure
+-    check WeiTing GDP DNI data
+-    check new scope and research questions:
+(To what extent have major asian countries decoupled CO2 emissions from economic growth over the periods?
+Which economic sectors (Energy, Transport, Industry) have been the primary drivers of successful (or failed) decoupling in these countries?)
+-    check roadmap file(DEADLINE: 11 AM UK TIME (NOT MIDNIGHT) on THURSDAY, NOVEMBER 27th, 2025.)
 
-    -   (for Marvin) design roadmap for the report development
+### **Nov 14 2025** - (all) **Meeting**
 
-<!-- -->
+Action item before meeting:
+-    look through the emission data sheet, csv file and excel file
+-    think about questions for the data and what you want to know more about, essentially they will be our topics
+-    (for Marvin) design roadmap for the report development
 
--   decision:
-    -   Compare GDP and GNI change with Energy sector CO2 emission change throughout 1970 to 2020. Region = Asia countries.
--   Task assignment:
-    -   (WeiTing) Gather GDP and GNI data for all Asia countries from 1970 to 2020, with interval of 5 years or less.
-    -   (Marvin) Draw roadmap for the final report
+decision:
+-    compare GDP and GNI change with Energy sector CO2 emission change throughout 1970 to 2020. Region = Asia countries.
 
-**Nov 11, 2025** - (all) **initial Meeting** Choose database source. Divide task. Choose database of EDGAR_emiss_on_UCDB_v2024.csv.
+Task assignment:
+-    (WeiTing) Gather GDP and GNI data for all Asia countries from 1970 to 2020, with interval of 5 years or less.
+-    (Marvin) Draw roadmap for the final report
 
-**Nov 8, 2025** - (Marvin) Create this file. Set GitHub repository. Set GitHub access.
+### **Nov 11, 2025** - (all) **initial Meeting** 
+Choose database source. Divide task. Choose database of EDGAR_emiss_on_UCDB_v2024.csv.
+
+### **Nov 8, 2025** - (Marvin) 
+Create this file. Set GitHub repository. Set GitHub access.
