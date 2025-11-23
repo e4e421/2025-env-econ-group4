@@ -1,5 +1,6 @@
 Link to work report document:\
-([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd))
+([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd)) 
+
 # Report structure
 
 1.  Gather GDP and GNI data from 1970 to 2020 for all Asia countries, calculate the change and compare to Energy industry sector CO2 emission data from the same time frame.
@@ -40,6 +41,52 @@ Link to work report document:\
 ## Final report
 
 Our final report in docx format can be found and edit online via [this link](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd). Because GitHub does not work well with docx editing, we can do everything in Rmd file first and then change it to docx and put into the document link above.
+
+## Task division and event log
+
+# Introduction
+
+This is the data report for Environmental Economic module Data report group 4, team member includes **Tanmay Kharmarbha**, **Marvin Lee** and **Wei-Ting Tan**. We choose R as main programming language and GitHub as version control tool. All work files are stored and synced via GitHub repository under account of e4e421(Marvin Lee), using .Rmd file as main R code workbook for every member to update to.
+
+### Tanmay Kharmarbha (Head of technical programming)
+
+-   Lead programmer
+    -   Coding for data organisation with R studio
+    -   Run code checks
+
+### Marvin Lee (Head of project management and infrastructure)
+
+-   Project management
+    -   GitHub repository maintenance
+    -   File version and naming convention control
+-   Assistant programmer
+    -   Data
+
+### Wei-Ting Tan (Head of reporting and design)
+
+-   Data gathering for GDP and GNI data
+-   Formulate final visual of the report
+
+# Log book
+
+**Nov 14 2025** - (all) **Meeting**
+
+-   Action item before meeting
+-   look through the emission data sheet, csv file and excel file
+-   think about questions for the data and what you want to know more about, essentially they will be our topics
+-   (for Marvin) design roadmap for the report development
+
+-   decision:
+    -   Compare GDP and GNI change with Energy sector CO2 emission change throughout 1970 to 2020. Region = Asia countries.
+-   Task assignment:
+    -   (WeiTing) Gather GDP and GNI data for all Asia countries from 1970 to 2020, with interval of 5 years or less.
+    -   (Marvin) Draw roadmap for the final report
+
+**Nov 11, 2025** - (all) **initial Meeting** Choose database source. Divide task. Choose database of EDGAR_emiss_on_UCDB_v2024.csv.
+
+**Nov 8, 2025** - (Marvin) Create this file. Set GitHub repository. Set GitHub access.
+
+# Other adminstrative materials
 
 ## Important dates
 
