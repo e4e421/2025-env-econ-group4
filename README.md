@@ -14,7 +14,7 @@ Link to work report document:\
 3.  (*done*)Choose a database (focus on [Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb))
 4.  Submit roadmap
 5.  (*done*)Download database
-6.  Examine database for potential insights
+6.  (*done*)Examine database for potential insights
     1.  Compare GDP growth and emission of countries to calculate decoupling.
 7.  Clean data, check outlier and tackle blank
 8.  Always update to GitHub (preferably use [GitHub desktop](https://desktop.github.com/download/))
