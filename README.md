@@ -13,13 +13,13 @@ Link to work report document:\
 1.  (*done*)Find a topic (Emission Contributor in continent and cities, and their policy)
 2.  (*done*)Submit group topic ([Link to KEATS submission page](https://keats.kcl.ac.uk/mod/assign/view.php?id=9308925))
 3.  (*done*)Choose a database (focus on [Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb))
-4.  Submit roadmap
-5.  (*done*)Download database
+4.  (*done*)Submit roadmap ([link to roadmap](https://github.com/e4e421/2025-env-econ-group4/blob/f055709b060ee716f0c09112d9b710cd6ea41b34/Report%20exports/Group%20FOUR-7QQMM906.pdf))
+5.  (*done*)Download database ([link to data](https://github.com/e4e421/2025-env-econ-group4/tree/f055709b060ee716f0c09112d9b710cd6ea41b34/Database))
 6.  (*done*)Examine database for potential insights
     1.  Compare GDP growth and emission of countries to calculate decoupling.
 7.  Clean data, check outlier and tackle blank
 8.  Always update to GitHub (preferably use [GitHub desktop](https://desktop.github.com/download/))
-9.  Write analysis code in Rmd file
+9.  Write analysis code in R file
 10. Generate graphs to assist our interpretation
 11. Write interpretation in word doc ([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd))
 12. make a report referencing visual from COP30 report ([link](https://github.com/e4e421/2025-env-econ-group4/blob/f04107b0c5df147f9c31b225540ea7bc29b8c430/Support%20documents/Sample%20report%20visual-State%20of%20the%20Climate%202025%20COP30%20(31%20oct).pdf))
