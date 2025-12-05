@@ -137,6 +137,8 @@ carbon_intensity_plot <- ggplot(final_trend_data,
 
 # Display the plot
 print(carbon_intensity_plot)
+ggsave("Carbon Intensity over time.png", carbon_intensity_plot, 
+       width = 16, height = 12, dpi = 400, bg = "white")
 
 ## Plot 2: Percentage Change from Baseline (1975)
 # Calculate percentage change in Carbon Intensity for each country (1975 baseline)
@@ -182,6 +184,8 @@ pct_change_plot <- ggplot(carbon_intensity_change,
 
 # Display the plot
 print(pct_change_plot)
+ggsave("Carbon Intensity Percentage change.png", pct_change_plot, 
+       width = 16, height = 12, dpi = 400, bg = "white")
 
 ## Plot 3: GDP & CO2 Percentage change from 1975
 # Calculate percentage change for both GDP and CO2 from 1975 baseline
@@ -230,6 +234,9 @@ small_multiples_dual <- ggplot(all_countries_long, aes(x = Year, y = Percentage_
   scale_color_manual(values = c("GDP" = "#2E8B57", "CO2 Emissions" = "#E41A1C"))
 
 print(small_multiples_dual)
+ggsave("GDP & CO2 Percentage change.png", small_multiples_dual, 
+       width = 16, height = 12, dpi = 400, bg = "white")
+
 
 ## Decoupling Analysis 
 # Calculate Tapio Decoupling Indicators
@@ -271,53 +278,8 @@ decoupling_summary <- tapio_decoupling %>%
 
 print(decoupling_summary)
 
-# Plot 1: Decoupling Trajectories Over Time
-decoupling_trajectory_plot <- ggplot(tapio_decoupling, 
-                                     aes(x = Year, y = DI, color = Country)) +
-  # Reference lines
-  geom_hline(yintercept = 0, linetype = "dashed", color = "gray50") +
-  geom_hline(yintercept = 1, linetype = "dashed", color = "gray50") +
-  
-  # Add shaded regions for decoupling types
-  annotate("rect", xmin = min(tapio_decoupling$Year), xmax = max(tapio_decoupling$Year),
-           ymin = -Inf, ymax = 0, alpha = 0.1, fill = "green") +
-  annotate("rect", xmin = min(tapio_decoupling$Year), xmax = max(tapio_decoupling$Year),
-           ymin = 0, ymax = 1, alpha = 0.1, fill = "yellow") +
-  annotate("rect", xmin = min(tapio_decoupling$Year), xmax = max(tapio_decoupling$Year),
-           ymin = 1, ymax = Inf, alpha = 0.1, fill = "red") +
-  
-  # Data points and lines
-  geom_line(linewidth = 1.2, alpha = 0.8) +
-  geom_point(aes(shape = Decoupling_Type), size = 3) +
-  
-  # Labels and titles
-  labs(
-    title = "Tapio Decoupling Analysis: Environmental-Economic Dynamics (1975-2022)",
-    x = "Year",
-    y = "Decoupling Index (DI)",
-    color = "Country",
-    shape = "Decoupling Type"
-  ) +
-  
-  # Theme and formatting
-  theme_minimal(base_size = 12) +
-  theme(
-    plot.title = element_text(face = "bold", size = 16, hjust = 0.5),
-    plot.subtitle = element_text(size = 12, hjust = 0.5),
-    legend.position = "bottom",
-    legend.box = "vertical",
-    panel.grid.minor = element_blank()
-  ) +
-  
-  # Scales
-  scale_x_continuous(breaks = seq(1975, 2022, by = 5)) +
-  scale_y_continuous(limits = c(-2, 3), breaks = seq(-2, 3, by = 0.5)) +
-  scale_color_brewer(palette = "Set1") +
-  scale_shape_manual(values = c(16, 17, 15, 8, 4))  # Different shapes for decoupling types
 
-print(decoupling_trajectory_plot)
-
-# Plot 1A: Decoupling Trajectories Over Time - Faceted by Country
+# Plot 1: Decoupling Trajectories Over Time 
 decoupling_trajectory_faceted <- ggplot(tapio_decoupling, 
                                         aes(x = Year, y = DI)) +
   # Reference lines
@@ -359,6 +321,8 @@ decoupling_trajectory_faceted <- ggplot(tapio_decoupling,
   scale_shape_manual(values = c(16, 17, 15, 8, 4))
 
 print(decoupling_trajectory_faceted)
+ggsave("decoupling_trajectory_faceted.png", decoupling_trajectory_faceted, 
+       width = 16, height = 12, dpi = 400, bg = "white")
 
 ## Table 
 # Create a summary table
