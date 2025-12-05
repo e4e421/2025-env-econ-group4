@@ -1,0 +1,10 @@
+---
+title: "Main R markdown workbook"
+output: statsr:::statswithr_lab
+---
+
+::: {#welcome}
+This file will be the main work file for our data report, and later be changed to docx. file for submission. Feel free to push code and update this Rmd file.
+:::
+
+

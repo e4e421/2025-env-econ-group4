@@ -19,8 +19,8 @@ Link to work report document:\
     1.  Compare GDP growth and emission of countries to calculate decoupling.
 7.  Clean data, check outlier and tackle blank
 8.  Always update to GitHub (preferably use [GitHub desktop](https://desktop.github.com/download/))
-9.  Write analysis code in R file
-10. Generate graphs to assist our interpretation
+9.  (*done*)Write analysis code in R file
+10. (*done*)Generate graphs to assist our interpretation
 11. Write interpretation in word doc ([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd))
 12. make a report referencing visual from COP30 report ([link](https://github.com/e4e421/2025-env-econ-group4/blob/f04107b0c5df147f9c31b225540ea7bc29b8c430/Support%20documents/Sample%20report%20visual-State%20of%20the%20Climate%202025%20COP30%20(31%20oct).pdf))
 13. Draft report submission
