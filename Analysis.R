@@ -277,6 +277,8 @@ decoupling_summary <- tapio_decoupling %>%
   pivot_wider(names_from = Decoupling_Type, values_from = n, values_fill = 0)
 
 print(decoupling_summary)
+# Save the summary table (counts by decoupling type)
+write_csv(decoupling_summary, "decoupling_type_summary.csv")
 
 
 # Plot 1: Decoupling Trajectories Over Time 
@@ -347,6 +349,8 @@ kable(decoupling_performance,
       digits = 2,
       col.names = c("Country", "Abs. Dec.", "Rel. Dec.", "Non-Dec.", 
                     "Stagnant", "% Abs.", "Avg DI", "Final State"))
+#Save table
+write_csv(decoupling_performance, "decoupling performance.csv")
 
 
 library(tidyverse)
@@ -363,6 +367,8 @@ decoupling_basic <- tapio_decoupling %>%
 
 print("Basic Decoupling Status Table:")
 print(decoupling_basic)
+#Save table
+write_csv(decoupling_basic, "decoupling basic.csv")
 
 # 6. Create a summary of most common state per country
 decoupling_summary <- tapio_decoupling %>%
@@ -379,44 +385,7 @@ decoupling_summary <- tapio_decoupling %>%
 print("Summary Statistics:")
 print(decoupling_summary)
 
-# Create a comprehensive summary table for your report
-final_report_table <- decoupling_performance %>%
-  left_join(
-    key_statistics %>% 
-      select(Country, `CO2_Growth_%`, `GDP_Growth_%`, `CI_Change_%`),
-    by = "Country"
-  ) %>%
-  left_join(
-    decoupling_summary %>% 
-      select(Country, `Most Common State`, `% Absolute Decoupling`),
-    by = "Country"
-  ) %>%
-  select(
-    Country,
-    `Overall CI Change (1975-2022)` = `CI_Change_%`,
-    `Most Frequent Decoupling State` = `Most Common State`,
-    `% Years in Absolute Decoupling` = `% Absolute Decoupling.y`,
-    `Final Decoupling State (2022)` = Final_State,
-    `Average DI` = Avg_DI,
-    `CO2 Growth %` = `CO2_Growth_%`,
-    `GDP Growth %` = `GDP_Growth_%`
-  ) %>%
-  # Convert percentages to proper format
-  mutate(
-    `Overall CI Change (1975-2022)` = paste0(round(`Overall CI Change (1975-2022)`, 1), "%"),
-    `% Years in Absolute Decoupling` = paste0(round(`% Years in Absolute Decoupling`, 1), "%"),
-    `CO2 Growth %` = paste0(round(`CO2 Growth %`, 1), "%"),
-    `GDP Growth %` = paste0(round(`GDP Growth %`, 1), "%"),
-    `Average DI` = round(`Average DI`, 3)
-  ) %>%
-  arrange(`% Years in Absolute Decoupling`)
 
-# Print with knitr for professional formatting
-cat("\n\nTable 4: Final Decoupling Performance Summary\n")
-cat("=================================================================\n")
-kable(final_report_table, 
-      caption = "Comprehensive Decoupling Performance Assessment",
-      align = c('l', 'c', 'c', 'c', 'c', 'c', 'c', 'c'))
 
 
 ### Sector Emissions
@@ -566,12 +535,20 @@ sector_2022 <- country_sector_year %>%
   arrange(Country, Rank)
 
 # Identify top contributing sector for each country in 2022
-top_sectors_2022 <- sector_2022 %>%
+top_sectors_2022_enhanced <- sector_2022 %>%
   filter(Rank == 1) %>%
-  select(Country, Top_Sector = Sector, 
-         Top_Sector_Emissions = Sector_CO2,
-         Top_Sector_Share = Sector_Share_2022)
-
-print("Top Contributing Sectors in 2022:")
-print(top_sectors_2022)
-
+  select(Country, 
+         `Dominant Sector` = Sector, 
+         `Sector Emissions (tons)` = Sector_CO2,
+         `Share of Total (%)` = Sector_Share_2022) %>%
+  # Format to 2 decimal places
+  mutate(
+    `Sector Emissions (tons)` = round(`Sector Emissions (tons)`, 2),
+    `Share of Total (%)` = round(`Share of Total (%)`, 2)  # Convert to percentage and round
+  ) %>%
+  arrange(desc(`Share of Total (%)`))
+  arrange(desc(`Share of Total (%)`))
+print("Table 1: Dominant CO₂ Emission Sectors by Country (2022)")
+print(top_sectors_2022_enhanced)
+# Save to CSV
+write_csv(top_sectors_2022_enhanced, "dominant_sectors_2022.csv")

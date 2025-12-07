@@ -1,0 +1,6 @@
+Country,Years_Absolute_Decoupling,Years_Relative_Decoupling,Years_Non_Decoupling,Years_Stagnant,Percent_Absolute,Avg_DI,Final_State
+Japan,2,2,0,3,28.57142857142857,-0.33540037951754914,Stagnant
+India,1,5,1,0,14.285714285714285,0.46572303884656074,Relative Decoupling
+Indonesia,1,4,2,0,14.285714285714285,0.4520517638053818,Relative Decoupling
+South Korea,1,5,1,0,14.285714285714285,0.5419771481890554,Non-Decoupling
+China,0,7,0,0,0,0.27942946621510517,Relative Decoupling
