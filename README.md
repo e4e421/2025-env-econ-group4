@@ -17,12 +17,12 @@ Link to work report document:\
 5.  (*done*)Download database ([link to data](https://github.com/e4e421/2025-env-econ-group4/tree/f055709b060ee716f0c09112d9b710cd6ea41b34/Database))
 6.  (*done*)Examine database for potential insights
     1.  Compare GDP growth and emission of countries to calculate decoupling.
-7.  Clean data, check outlier and tackle blank
-8.  Always update to GitHub (preferably use [GitHub desktop](https://desktop.github.com/download/))
+7.  (*done*)Clean data, check outlier and tackle blank
+8.  (*done*)Always update to GitHub (preferably use [GitHub desktop](https://desktop.github.com/download/))
 9.  (*done*)Write analysis code in R file
 10. (*done*)Generate graphs to assist our interpretation
-11. Write interpretation in word doc ([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd))
-12. make a report referencing visual from COP30 report ([link](https://github.com/e4e421/2025-env-econ-group4/blob/f04107b0c5df147f9c31b225540ea7bc29b8c430/Support%20documents/Sample%20report%20visual-State%20of%20the%20Climate%202025%20COP30%20(31%20oct).pdf))
+11. (*done*)Write interpretation in word doc ([link to doc](https://emckclac-my.sharepoint.com/:f:/r/personal/k25059492_kcl_ac_uk/Documents/2025%20Env%20Econ%20Group%204?csf=1&web=1&e=giOShd))
+12. (No need)make a report referencing visual from COP30 report ([link](https://github.com/e4e421/2025-env-econ-group4/blob/f04107b0c5df147f9c31b225540ea7bc29b8c430/Support%20documents/Sample%20report%20visual-State%20of%20the%20Climate%202025%20COP30%20(31%20oct).pdf))
 13. Draft report submission
 14. Final report submission
 15. keep happy
@@ -30,7 +30,8 @@ Link to work report document:\
 # Data structure of this GitHub repository
 
 -   Please ignore files start with a dot(.) those are binary file for computer to read. (i.e. **.DS_Store** and **.Rhistory**)
--   **main-R-markdown-workbook.Rmd** ([Link to file](https://github.com/e4e421/2025-env-econ-group4/blob/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/main-R-markdown-workbook.Rmd))
+-   **main-R-markdown-workbook.Rmd** (legacy file)([Link to file](https://github.com/e4e421/2025-env-econ-group4/blob/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/main-R-markdown-workbook.Rmd))
+-    **Analysis.R** ([Link to file]([https://github.com/e4e421/2025-env-econ-group4/blob/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/main-R-markdown-workbook.Rmd](https://github.com/e4e421/2025-env-econ-group4/blob/eb184ee3a58f5071439ad6844e7c9ba207293f25/Analysis.R)))
     -   For main R coding, dataset working directory(for local file retrieval) set by and maintained by lead programmer Tanmay.
 -   **EDGAR_emiss_on_UCDB_v2024.csv** ([Link to file](https://github.com/e4e421/2025-env-econ-group4/blob/ea071cd25ba3f0fe3f34bbf8ca92680185730cdf/EDGAR_emiss_on_UCDB_v2024.csv))
     -   Our chosen data set, downloaded from [EDGAR - Emissions Database for Global Atmospheric Research: Emissions in Urban Areas](https://edgar.jrc.ec.europa.eu/dataset_ucdb) in 11 Nov 2025 by Marvin
@@ -46,7 +47,7 @@ Our final report in docx format can be found and edit online via [this link](htt
 
 # Introduction
 
-This is the data report for Environmental Economic module Data report group 4, team member includes **Tanmay Kharmarbha**, **Marvin Lee** and **Wei-Ting Tan**. We choose R as main programming language and GitHub as version control tool. All work files are stored and synced via GitHub repository under account of e4e421(Marvin Lee), using .Rmd file as main R code workbook for every member to update to.
+This is the data report for 2025 7QQMM906 Environmental Economic module Data report group 4, team member includes **Tanmay Kharmarbha**, **Marvin Lee** and **Wei-Ting Tan**. We choose R as main programming language and GitHub as version control tool. All work files are stored and synced via GitHub repository under account of e4e421(Marvin Lee), using Analysis.R file as main R code workbook for every member to update to.
 
 ### Tanmay Kharmarbha (Head of technical programming)
 
@@ -68,6 +69,16 @@ This is the data report for Environmental Economic module Data report group 4, t
 -   Formulate final visual of the report
 
 # Log book
+
+**Dec 04 2025** - (all) **Meeting**
+
+- check data code and graph
+- discuss findings and conclusion
+
+- Task assignment
+    - (Tanmay) export figure
+    - (WeiTing) Research insight of decoupling graph and link to policy change
+    - (Marvin) Organise insights and formulate draft report, and submit draft report
 
 **Nov 23 2025** - (Marvin) - submited roadmap (version 1)
 
