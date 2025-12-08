@@ -70,12 +70,23 @@ This is the data report for 2025 7QQMM906 Environmental Economic module Data rep
 
 # Event Log book
 
-**Dec 07 2025** - (all) **Meeting**
+**Dec 08 2025** - (all) **Meeting**
 - after draft report submission, for final insight and challenges discussion
 
 - Task before meeting
     - look through online doc file and think about our insights
     - think about our challenges through out the research
+
+- decision:
+    - change our dataset for co2 emission to new dataset, since old set only includes urban city and lead to data inaccuracy
+    - add linear regression model to predict sectoral emission change after last year
+
+- Task assignment:
+    - weiting get GDP data 1970-2023, each year, for a set that includes our five countries
+    - tanmay use new dataset and run graph and table
+    - marvin update graph and table in the report and write interpretation
+    - weiting write policy connection to decoupling country and sectors.
+
 
 
 **Dec 04 2025** - (all) **Meeting**
