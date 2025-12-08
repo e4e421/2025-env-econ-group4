@@ -68,7 +68,15 @@ This is the data report for 2025 7QQMM906 Environmental Economic module Data rep
 -   Data gathering for GDP and GNI data
 -   Formulate final visual of the report
 
-# Log book
+# Event Log book
+
+**Dec 07 2025** - (all) **Meeting**
+- after draft report submission, for final insight and challenges discussion
+
+- Task before meeting
+    - look through online doc file and think about our insights
+    - think about our challenges through out the research
+
 
 **Dec 04 2025** - (all) **Meeting**
 
