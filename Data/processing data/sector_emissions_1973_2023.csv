@@ -1,0 +1,1990 @@
+Country,Sector,Year,Sector_CO2_Mt
+China,Agriculture,1973,4.638333001
+China,Agriculture,1974,4.173714039
+China,Agriculture,1975,5.684904335
+China,Agriculture,1976,5.73571386
+China,Agriculture,1977,6.832570875
+China,Agriculture,1978,7.825713469
+China,Agriculture,1979,9.804665614
+China,Agriculture,1980,10.81457018
+China,Agriculture,1981,10.34837975
+China,Agriculture,1982,10.85857012
+China,Agriculture,1983,11.94966517
+China,Agriculture,1984,13.2848555
+China,Agriculture,1985,12.40642691
+China,Agriculture,1986,11.92137936
+China,Agriculture,1987,14.41638849
+China,Agriculture,1988,16.39460719
+China,Agriculture,1989,16.5916643
+China,Agriculture,1990,17.79694991
+China,Agriculture,1991,18.21390227
+China,Agriculture,1992,19.0504259
+China,Agriculture,1993,15.80909302
+China,Agriculture,1994,17.88128336
+China,Agriculture,1995,23.6122825
+China,Agriculture,1996,24.63423466
+China,Agriculture,1997,23.24666334
+China,Agriculture,1998,23.79404418
+China,Agriculture,1999,25.44771047
+China,Agriculture,2000,24.12771058
+China,Agriculture,2001,24.6965676
+China,Agriculture,2002,31.12685267
+China,Agriculture,2003,29.2421862
+China,Agriculture,2004,29.97813819
+China,Agriculture,2005,21.11805859
+China,Agriculture,2006,23.5030677
+China,Agriculture,2007,21.48331086
+China,Agriculture,2008,20.46130629
+China,Agriculture,2009,24.60888198
+China,Agriculture,2010,21.37011586
+China,Agriculture,2011,24.60589625
+China,Agriculture,2012,25.31309147
+China,Agriculture,2013,26.50999614
+China,Agriculture,2014,22.58781593
+China,Agriculture,2015,24.6508393
+China,Agriculture,2016,18.20578307
+China,Agriculture,2017,15.16171705
+China,Agriculture,2018,15.37794557
+China,Agriculture,2019,17.131869
+China,Agriculture,2020,16.28115007
+China,Agriculture,2021,15.91532156
+China,Agriculture,2022,15.48082164
+China,Agriculture,2023,15.06157362
+China,Buildings,1973,238.0107637
+China,Buildings,1974,238.7838167
+China,Buildings,1975,277.6191544
+China,Buildings,1976,282.0094089
+China,Buildings,1977,318.6166754
+China,Buildings,1978,350.926981
+China,Buildings,1979,358.6673459
+China,Buildings,1980,334.5457507
+China,Buildings,1981,352.9750134
+China,Buildings,1982,365.8146111
+China,Buildings,1983,384.2405004
+China,Buildings,1984,415.0805965
+China,Buildings,1985,434.8197533
+China,Buildings,1986,459.499346
+China,Buildings,1987,477.4733354
+China,Buildings,1988,510.6642787
+China,Buildings,1989,505.8625095
+China,Buildings,1990,524.1358835
+China,Buildings,1991,527.1041542
+China,Buildings,1992,499.1168475
+China,Buildings,1993,515.8390338
+China,Buildings,1994,496.9504398
+China,Buildings,1995,517.0256109
+China,Buildings,1996,403.1393471
+China,Buildings,1997,490.3808937
+China,Buildings,1998,447.0322235
+China,Buildings,1999,459.284924
+China,Buildings,2000,369.6227247
+China,Buildings,2001,379.2265597
+China,Buildings,2002,395.2575457
+China,Buildings,2003,437.5133658
+China,Buildings,2004,494.3886722
+China,Buildings,2005,521.6316952
+China,Buildings,2006,545.0184288
+China,Buildings,2007,559.1927568
+China,Buildings,2008,543.7095768
+China,Buildings,2009,556.955848
+China,Buildings,2010,585.7555437
+China,Buildings,2011,618.2572633
+China,Buildings,2012,643.1539631
+China,Buildings,2013,675.0502881
+China,Buildings,2014,683.9726186
+China,Buildings,2015,716.8763369
+China,Buildings,2016,724.9413293
+China,Buildings,2017,723.3640927
+China,Buildings,2018,665.8828631
+China,Buildings,2019,619.6457704
+China,Buildings,2020,613.4935769
+China,Buildings,2021,591.1755166
+China,Buildings,2022,603.542229
+China,Buildings,2023,648.6311266
+China,Fuel Exploitation,1973,55.92264256
+China,Fuel Exploitation,1974,59.26183868
+China,Fuel Exploitation,1975,65.57891009
+China,Fuel Exploitation,1976,68.00312408
+China,Fuel Exploitation,1977,72.92250874
+China,Fuel Exploitation,1978,89.85104397
+China,Fuel Exploitation,1979,93.04365756
+China,Fuel Exploitation,1980,107.135651
+China,Fuel Exploitation,1981,98.0868627
+China,Fuel Exploitation,1982,99.67362349
+China,Fuel Exploitation,1983,102.2371091
+China,Fuel Exploitation,1984,111.2142896
+China,Fuel Exploitation,1985,120.1863321
+China,Fuel Exploitation,1986,129.0475084
+China,Fuel Exploitation,1987,134.7614729
+China,Fuel Exploitation,1988,140.3868793
+China,Fuel Exploitation,1989,174.563873
+China,Fuel Exploitation,1990,162.3373022
+China,Fuel Exploitation,1991,168.7761858
+China,Fuel Exploitation,1992,167.0776381
+China,Fuel Exploitation,1993,166.2038508
+China,Fuel Exploitation,1994,199.8726855
+China,Fuel Exploitation,1995,197.0527643
+China,Fuel Exploitation,1996,184.0601833
+China,Fuel Exploitation,1997,228.474912
+China,Fuel Exploitation,1998,213.8162058
+China,Fuel Exploitation,1999,204.459097
+China,Fuel Exploitation,2000,244.8334923
+China,Fuel Exploitation,2001,242.0962466
+China,Fuel Exploitation,2002,242.436404
+China,Fuel Exploitation,2003,299.2480867
+China,Fuel Exploitation,2004,289.6884044
+China,Fuel Exploitation,2005,302.4331772
+China,Fuel Exploitation,2006,359.0087362
+China,Fuel Exploitation,2007,389.1049464
+China,Fuel Exploitation,2008,398.3546179
+China,Fuel Exploitation,2009,485.0867264
+China,Fuel Exploitation,2010,525.7565287
+China,Fuel Exploitation,2011,547.757857
+China,Fuel Exploitation,2012,568.7548817
+China,Fuel Exploitation,2013,599.8893332
+China,Fuel Exploitation,2014,570.7401118
+China,Fuel Exploitation,2015,608.3738672
+China,Fuel Exploitation,2016,553.0967794
+China,Fuel Exploitation,2017,616.751739
+China,Fuel Exploitation,2018,632.96146
+China,Fuel Exploitation,2019,718.4257301
+China,Fuel Exploitation,2020,695.1881834
+China,Fuel Exploitation,2021,704.2139781
+China,Fuel Exploitation,2022,684.243903
+China,Fuel Exploitation,2023,713.5118835
+China,Industrial Combustion,1973,412.136476
+China,Industrial Combustion,1974,425.4683622
+China,Industrial Combustion,1975,494.5936009
+China,Industrial Combustion,1976,523.8179163
+China,Industrial Combustion,1977,596.1714619
+China,Industrial Combustion,1978,649.7848132
+China,Industrial Combustion,1979,637.2733573
+China,Industrial Combustion,1980,601.0202638
+China,Industrial Combustion,1981,581.1268458
+China,Industrial Combustion,1982,611.8700522
+China,Industrial Combustion,1983,645.2250721
+China,Industrial Combustion,1984,710.8214726
+China,Industrial Combustion,1985,656.9027203
+China,Industrial Combustion,1986,685.9284606
+China,Industrial Combustion,1987,732.0832753
+China,Industrial Combustion,1988,770.7307168
+China,Industrial Combustion,1989,764.4769349
+China,Industrial Combustion,1990,745.2034315
+China,Industrial Combustion,1991,778.8291581
+China,Industrial Combustion,1992,807.8037533
+China,Industrial Combustion,1993,861.5358407
+China,Industrial Combustion,1994,903.3756457
+China,Industrial Combustion,1995,1070.165578
+China,Industrial Combustion,1996,968.6581927
+China,Industrial Combustion,1997,961.127928
+China,Industrial Combustion,1998,1023.8162
+China,Industrial Combustion,1999,871.48815750000006
+China,Industrial Combustion,2000,904.0451985
+China,Industrial Combustion,2001,958.8383755
+China,Industrial Combustion,2002,996.7539881
+China,Industrial Combustion,2003,1136.149065
+China,Industrial Combustion,2004,1497.944863
+China,Industrial Combustion,2005,1935.745682
+China,Industrial Combustion,2006,2083.310917
+China,Industrial Combustion,2007,2274.395773
+China,Industrial Combustion,2008,2409.719949
+China,Industrial Combustion,2009,2601.242244
+China,Industrial Combustion,2010,2844.07335
+China,Industrial Combustion,2011,3004.769274
+China,Industrial Combustion,2012,3042.033557
+China,Industrial Combustion,2013,3068.12305
+China,Industrial Combustion,2014,3094.686305
+China,Industrial Combustion,2015,2995.880894
+China,Industrial Combustion,2016,2859.402773
+China,Industrial Combustion,2017,2696.33026
+China,Industrial Combustion,2018,2790.824163
+China,Industrial Combustion,2019,2795.073988
+China,Industrial Combustion,2020,2852.616024
+China,Industrial Combustion,2021,2832.322967
+China,Industrial Combustion,2022,2725.522519
+China,Industrial Combustion,2023,2874.023038
+China,Power Industry,1973,150.9129278
+China,Power Industry,1974,147.7155607
+China,Power Industry,1975,176.1276295
+China,Power Industry,1976,181.8305892
+China,Power Industry,1977,205.1542351
+China,Power Industry,1978,269.5869167
+China,Power Industry,1979,294.7479564
+China,Power Industry,1980,310.0849384
+China,Power Industry,1981,309.5042628
+China,Power Industry,1982,319.3382698
+China,Power Industry,1983,334.5440159
+China,Power Industry,1984,364.6878
+China,Power Industry,1985,393.0314389
+China,Power Industry,1986,424.4442959
+China,Power Industry,1987,473.5895948
+China,Power Industry,1988,529.4544583
+China,Power Industry,1989,577.6832385
+China,Power Industry,1990,639.2036507
+China,Power Industry,1991,704.1066857
+China,Power Industry,1992,780.4038938
+China,Power Industry,1993,890.4797401
+China,Power Industry,1994,966.3725688
+China,Power Industry,1995,1058.498776
+China,Power Industry,1996,1208.355598
+China,Power Industry,1997,1189.022634
+China,Power Industry,1998,1259.251911
+China,Power Industry,1999,1295.179178
+China,Power Industry,2000,1426.850497
+China,Power Industry,2001,1506.574552
+China,Power Industry,2002,1686.007281
+China,Power Industry,2003,1996.101074
+China,Power Industry,2004,2203.919661
+China,Power Industry,2005,2373.239148
+China,Power Industry,2006,2686.187243
+China,Power Industry,2007,2930.614419
+China,Power Industry,2008,2961.790041
+China,Power Industry,2009,3143.741587
+China,Power Industry,2010,3477.506858
+China,Power Industry,2011,3954.710897
+China,Power Industry,2012,4076.159681
+China,Power Industry,2013,4347.397712
+China,Power Industry,2014,4389.763742
+China,Power Industry,2015,4266.271517
+China,Power Industry,2016,4410.465225
+China,Power Industry,2017,4705.733761
+China,Power Industry,2018,5071.184823
+China,Power Industry,2019,5238.130936
+China,Power Industry,2020,5376.577938
+China,Power Industry,2021,5943.080811
+China,Power Industry,2022,6093.125695
+China,Power Industry,2023,6472.947082
+China,Processes,1973,97.45936242
+China,Processes,1974,96.78842675
+China,Processes,1975,96.91188297
+China,Processes,1976,102.1421545
+China,Processes,1977,109.5197276
+China,Processes,1978,119.2619024
+China,Processes,1979,128.7171613
+China,Processes,1980,128.5474142
+China,Processes,1981,126.2063041
+China,Processes,1982,137.5320948
+China,Processes,1983,147.0393975
+China,Processes,1984,159.3170823
+China,Processes,1985,174.5342558
+China,Processes,1986,189.5577108
+China,Processes,1987,201.9511159
+China,Processes,1988,220.9234741
+China,Processes,1989,224.0744089
+China,Processes,1990,231.1138362
+China,Processes,1991,252.195122
+China,Processes,1992,284.8571364
+China,Processes,1993,314.2471764
+China,Processes,1994,345.7480913
+China,Processes,1995,371.6719228
+China,Processes,1996,381.16861
+China,Processes,1997,398.5328707
+China,Processes,1998,413.6411545
+China,Processes,1999,434.1767155
+China,Processes,2000,448.4918829
+China,Processes,2001,478.63224
+China,Processes,2002,522.0088629
+China,Processes,2003,578.9016251
+China,Processes,2004,633.0933403
+China,Processes,2005,712.6407712
+China,Processes,2006,819.17454969999994
+China,Processes,2007,910.8811998
+China,Processes,2008,940.7773339
+China,Processes,2009,1019.242148
+China,Processes,2010,1108.669998
+China,Processes,2011,1210.013942
+China,Processes,2012,1253.589087
+China,Processes,2013,1331.216297
+China,Processes,2014,1381.881609
+China,Processes,2015,1333.373622
+China,Processes,2016,1390.480518
+China,Processes,2017,1398.789481
+China,Processes,2018,1441.970196
+China,Processes,2019,1514.476308
+China,Processes,2020,1562.902207
+China,Processes,2021,1561.976103
+China,Processes,2022,1472.266635
+China,Processes,2023,1454.066994
+China,Transport,1973,54.41384102
+China,Transport,1974,58.84712914
+China,Transport,1975,65.90872351
+China,Transport,1976,66.90603476
+China,Transport,1977,74.11732227
+China,Transport,1978,71.98920139
+China,Transport,1979,74.89711271
+China,Transport,1980,70.85895165
+China,Transport,1981,70.63641405
+China,Transport,1982,74.0071064
+China,Transport,1983,78.59938901
+China,Transport,1984,83.88858804
+China,Transport,1985,86.32868236
+China,Transport,1986,94.05602931
+China,Transport,1987,98.71016655
+China,Transport,1988,104.7208569
+China,Transport,1989,108.5201011
+China,Transport,1990,94.15253859
+China,Transport,1991,100.6214246
+China,Transport,1992,111.1023859
+China,Transport,1993,125.7015983
+China,Transport,1994,116.3504114
+China,Transport,1995,127.3714315
+China,Transport,1996,169.8530499
+China,Transport,1997,146.1269223
+China,Transport,1998,140.2850852
+China,Transport,1999,157.3616757
+China,Transport,2000,248.4802852
+China,Transport,2001,254.2502547
+China,Transport,2002,276.4443174
+China,Transport,2003,313.1442723
+China,Transport,2004,371.1368175
+China,Transport,2005,397.312032
+China,Transport,2006,434.8119874
+China,Transport,2007,468.5766604
+China,Transport,2008,507.067555
+China,Transport,2009,517.074565
+China,Transport,2010,568.7797877
+China,Transport,2011,621.8900194
+China,Transport,2012,686.1263144
+China,Transport,2013,741.0943685
+China,Transport,2014,770.3500344
+China,Transport,2015,828.4621343
+China,Transport,2016,845.3566383
+China,Transport,2017,877.8151263
+China,Transport,2018,950.9561472
+China,Transport,2019,944.3722822
+China,Transport,2020,901.9614897
+China,Transport,2021,969.4478537
+China,Transport,2022,929.086321
+China,Transport,2023,1077.761487
+China,Waste,1973,0.167023504
+China,Waste,1974,0.170506483
+China,Waste,1975,0.173778242
+China,Waste,1976,0.180789462
+China,Waste,1977,0.187708003
+China,Waste,1978,0.19459206
+China,Waste,1979,0.201540775
+China,Waste,1980,0.208640363
+China,Waste,1981,0.219291899
+China,Waste,1982,0.230186985
+China,Waste,1983,0.241444163
+China,Waste,1984,0.253222926
+China,Waste,1985,0.265631039
+China,Waste,1986,0.278905586
+China,Waste,1987,0.292876298
+China,Waste,1988,0.307319023
+China,Waste,1989,0.321863047
+China,Waste,1990,0.336206628
+China,Waste,1991,0.3526581
+China,Waste,1992,0.368855246
+China,Waste,1993,0.384806687
+China,Waste,1994,0.40060079
+China,Waste,1995,0.416323768
+China,Waste,1996,0.433023101
+China,Waste,1997,0.449595271
+China,Waste,1998,0.466098471
+China,Waste,1999,0.482627534
+China,Waste,2000,0.499257897
+China,Waste,2001,0.52087349
+China,Waste,2002,0.542702458
+China,Waste,2003,0.564742646
+China,Waste,2004,0.58699621
+China,Waste,2005,0.624733513
+China,Waste,2006,0.931828384
+China,Waste,2007,1.23892541
+China,Waste,2008,1.546020281
+China,Waste,2009,1.853115151
+China,Waste,2010,2.160210022
+China,Waste,2011,2.467307049
+China,Waste,2012,2.774401919
+China,Waste,2013,2.857376999
+China,Waste,2014,2.940524504
+China,Waste,2015,3.023523293
+China,Waste,2016,3.102414063
+China,Waste,2017,3.180891013
+China,Waste,2018,3.258783875
+China,Waste,2019,3.335991349
+China,Waste,2020,3.412392737
+China,Waste,2021,3.48219888
+China,Waste,2022,3.558155843
+China,Waste,2023,3.635769651
+India,Agriculture,1973,2.461956843
+India,Agriculture,1974,3.235937743
+India,Agriculture,1975,3.123266284
+India,Agriculture,1976,3.533356652
+India,Agriculture,1977,4.288689855
+India,Agriculture,1978,4.538232698
+India,Agriculture,1979,5.391046859
+India,Agriculture,1980,5.310694444
+India,Agriculture,1981,5.765989596
+India,Agriculture,1982,6.136689539
+India,Agriculture,1983,7.040522727
+India,Agriculture,1984,8.135284486
+India,Agriculture,1985,8.747093922
+India,Agriculture,1986,10.07552705
+India,Agriculture,1987,8.79072723
+India,Agriculture,1988,11.05557454
+India,Agriculture,1989,11.26829361
+India,Agriculture,1990,11.84306969
+India,Agriculture,1991,12.45666006
+India,Agriculture,1992,13.04133614
+India,Agriculture,1993,13.50674078
+India,Agriculture,1994,14.44069299
+India,Agriculture,1995,15.00855479
+India,Agriculture,1996,15.9662356
+India,Agriculture,1997,16.9928498
+India,Agriculture,1998,17.67464018
+India,Agriculture,1999,18.14774495
+India,Agriculture,2000,16.88478795
+India,Agriculture,2001,17.42630214
+India,Agriculture,2002,16.04407376
+India,Agriculture,2003,17.10709264
+India,Agriculture,2004,17.99494967
+India,Agriculture,2005,19.41237802
+India,Agriculture,2006,21.10506823
+India,Agriculture,2007,22.12681087
+India,Agriculture,2008,23.29432983
+India,Agriculture,2009,23.87659649
+India,Agriculture,2010,25.24122488
+India,Agriculture,2011,25.93925326
+India,Agriculture,2012,25.86015796
+India,Agriculture,2013,25.55865312
+India,Agriculture,2014,25.66236741
+India,Agriculture,2015,26.16071978
+India,Agriculture,2016,25.33881039
+India,Agriculture,2017,25.85743417
+India,Agriculture,2018,26.9100292
+India,Agriculture,2019,29.19320986
+India,Agriculture,2020,30.96908111
+India,Agriculture,2021,29.24464789
+India,Agriculture,2022,29.90483634
+India,Agriculture,2023,30.5826652
+India,Buildings,1973,35.0237013
+India,Buildings,1974,33.28314362
+India,Buildings,1975,33.69188963
+India,Buildings,1976,36.6181645
+India,Buildings,1977,38.279694
+India,Buildings,1978,40.69140963
+India,Buildings,1979,47.7956995
+India,Buildings,1980,45.35854914
+India,Buildings,1981,54.22745031
+India,Buildings,1982,55.52585261
+India,Buildings,1983,60.84613763
+India,Buildings,1984,73.5966219
+India,Buildings,1985,66.46048806
+India,Buildings,1986,59.99497931
+India,Buildings,1987,63.06331522
+India,Buildings,1988,73.44035523
+India,Buildings,1989,73.32999871
+India,Buildings,1990,84.70820991
+India,Buildings,1991,92.36079922
+India,Buildings,1992,91.59027246
+India,Buildings,1993,91.00731454
+India,Buildings,1994,100.4127687
+India,Buildings,1995,104.4547775
+India,Buildings,1996,108.8855438
+India,Buildings,1997,118.031209
+India,Buildings,1998,105.4976567
+India,Buildings,1999,113.8176611
+India,Buildings,2000,111.2211879
+India,Buildings,2001,110.5897575
+India,Buildings,2002,115.671141
+India,Buildings,2003,124.6501806
+India,Buildings,2004,127.2362809
+India,Buildings,2005,127.3947142
+India,Buildings,2006,128.1799274
+India,Buildings,2007,124.9524045
+India,Buildings,2008,155.8905797
+India,Buildings,2009,157.8078732
+India,Buildings,2010,161.5217008
+India,Buildings,2011,149.6886617
+India,Buildings,2012,162.8887795
+India,Buildings,2013,159.4733303
+India,Buildings,2014,167.8413957
+India,Buildings,2015,172.1584957
+India,Buildings,2016,178.0846271
+India,Buildings,2017,183.2117444
+India,Buildings,2018,190.0485706
+India,Buildings,2019,192.3432178
+India,Buildings,2020,188.6947984
+India,Buildings,2021,201.1516006
+India,Buildings,2022,208.8406522
+India,Buildings,2023,221.7590526
+India,Fuel Exploitation,1973,20.84036669
+India,Fuel Exploitation,1974,22.20234317
+India,Fuel Exploitation,1975,22.18052327
+India,Fuel Exploitation,1976,22.79833153
+India,Fuel Exploitation,1977,23.32926186
+India,Fuel Exploitation,1978,22.22648957
+India,Fuel Exploitation,1979,22.23934207
+India,Fuel Exploitation,1980,22.59060722
+India,Fuel Exploitation,1981,24.28816954
+India,Fuel Exploitation,1982,25.29663643
+India,Fuel Exploitation,1983,26.62281306
+India,Fuel Exploitation,1984,27.22343514
+India,Fuel Exploitation,1985,28.85139381
+India,Fuel Exploitation,1986,30.41365729
+India,Fuel Exploitation,1987,31.22732464
+India,Fuel Exploitation,1988,32.49237042
+India,Fuel Exploitation,1989,32.73019109
+India,Fuel Exploitation,1990,33.47608421
+India,Fuel Exploitation,1991,34.32238063
+India,Fuel Exploitation,1992,33.96141831
+India,Fuel Exploitation,1993,36.1392461
+India,Fuel Exploitation,1994,42.2359576
+India,Fuel Exploitation,1995,42.77422657
+India,Fuel Exploitation,1996,43.40081252
+India,Fuel Exploitation,1997,41.01151796
+India,Fuel Exploitation,1998,39.1179186
+India,Fuel Exploitation,1999,47.94755784
+India,Fuel Exploitation,2000,50.08735286
+India,Fuel Exploitation,2001,49.54867886
+India,Fuel Exploitation,2002,53.9715346
+India,Fuel Exploitation,2003,57.13212371
+India,Fuel Exploitation,2004,69.52928238
+India,Fuel Exploitation,2005,68.28128426
+India,Fuel Exploitation,2006,74.61991337
+India,Fuel Exploitation,2007,63.92840637
+India,Fuel Exploitation,2008,57.1290641
+India,Fuel Exploitation,2009,52.02321992
+India,Fuel Exploitation,2010,56.19667179
+India,Fuel Exploitation,2011,64.19269594
+India,Fuel Exploitation,2012,75.04990349
+India,Fuel Exploitation,2013,76.31526196
+India,Fuel Exploitation,2014,80.86262825
+India,Fuel Exploitation,2015,83.06359328
+India,Fuel Exploitation,2016,87.71634489
+India,Fuel Exploitation,2017,94.63522466
+India,Fuel Exploitation,2018,97.92297764
+India,Fuel Exploitation,2019,104.5409901
+India,Fuel Exploitation,2020,94.64495597
+India,Fuel Exploitation,2021,94.84572001
+India,Fuel Exploitation,2022,125.267961
+India,Fuel Exploitation,2023,133.5912374
+India,Industrial Combustion,1973,65.23378423
+India,Industrial Combustion,1974,70.84077782
+India,Industrial Combustion,1975,77.48679675
+India,Industrial Combustion,1976,82.71338707
+India,Industrial Combustion,1977,85.08681864
+India,Industrial Combustion,1978,82.84032734
+India,Industrial Combustion,1979,83.44420564
+India,Industrial Combustion,1980,83.33716616
+India,Industrial Combustion,1981,88.87604519
+India,Industrial Combustion,1982,101.7162014
+India,Industrial Combustion,1983,102.6711461
+India,Industrial Combustion,1984,112.9777464
+India,Industrial Combustion,1985,114.0934898
+India,Industrial Combustion,1986,133.0815101
+India,Industrial Combustion,1987,134.9777829
+India,Industrial Combustion,1988,137.8077262
+India,Industrial Combustion,1989,148.0397628
+India,Industrial Combustion,1990,149.1103413
+India,Industrial Combustion,1991,153.2047218
+India,Industrial Combustion,1992,156.6539804
+India,Industrial Combustion,1993,154.5325524
+India,Industrial Combustion,1994,164.337006
+India,Industrial Combustion,1995,156.7003086
+India,Industrial Combustion,1996,156.9249226
+India,Industrial Combustion,1997,173.1348739
+India,Industrial Combustion,1998,182.5837713
+India,Industrial Combustion,1999,187.7991692
+India,Industrial Combustion,2000,192.2747457
+India,Industrial Combustion,2001,193.9796942
+India,Industrial Combustion,2002,207.6701966
+India,Industrial Combustion,2003,198.4246101
+India,Industrial Combustion,2004,208.2556119
+India,Industrial Combustion,2005,232.6189524
+India,Industrial Combustion,2006,260.30718890000003
+India,Industrial Combustion,2007,295.2584928
+India,Industrial Combustion,2008,308.1789083
+India,Industrial Combustion,2009,355.0909327
+India,Industrial Combustion,2010,397.4903589
+India,Industrial Combustion,2011,442.459207
+India,Industrial Combustion,2012,431.0654176
+India,Industrial Combustion,2013,468.4187632
+India,Industrial Combustion,2014,499.8832638
+India,Industrial Combustion,2015,502.7189808
+India,Industrial Combustion,2016,523.6354193
+India,Industrial Combustion,2017,555.0959397
+India,Industrial Combustion,2018,564.6781346
+India,Industrial Combustion,2019,548.9012544
+India,Industrial Combustion,2020,501.0287525
+India,Industrial Combustion,2021,559.3889323
+India,Industrial Combustion,2022,568.7254806
+India,Industrial Combustion,2023,619.0166279
+India,Power Industry,1973,38.52753625
+India,Power Industry,1974,45.90725899
+India,Power Industry,1975,51.29648701
+India,Power Industry,1976,58.38041287
+India,Power Industry,1977,56.84053659
+India,Power Industry,1978,50.66643281
+India,Power Industry,1979,59.96019264
+India,Power Industry,1980,72.93119542
+India,Power Industry,1981,82.80576986
+India,Power Industry,1982,92.3892511
+India,Power Industry,1983,103.9686412
+India,Power Industry,1984,113.9739321
+India,Power Industry,1985,131.5581436
+India,Power Industry,1986,150.4520739
+India,Power Industry,1987,173.7796601
+India,Power Industry,1988,181.9395466
+India,Power Industry,1989,201.0127181
+India,Power Industry,1990,215.751155
+India,Power Industry,1991,242.1354718
+India,Power Industry,1992,261.8936433
+India,Power Industry,1993,289.3531545
+India,Power Industry,1994,301.6160812
+India,Power Industry,1995,345.8271313
+India,Power Industry,1996,368.5340976
+India,Power Industry,1997,381.0101928
+India,Power Industry,1998,396.0836504
+India,Power Industry,1999,431.0680766
+India,Power Industry,2000,459.1438037
+India,Power Industry,2001,471.9481104
+India,Power Industry,2002,479.4057029
+India,Power Industry,2003,501.5984331
+India,Power Industry,2004,548.3213625
+India,Power Industry,2005,561.4034995
+India,Power Industry,2006,596.7300921
+India,Power Industry,2007,658.4643626
+India,Power Industry,2008,684.6555605
+India,Power Industry,2009,758.4981039
+India,Power Industry,2010,785.4702245
+India,Power Industry,2011,818.9953218
+India,Power Industry,2012,946.1558561
+India,Power Industry,2013,962.5515266
+India,Power Industry,2014,1077.498243
+India,Power Industry,2015,1055.398047
+India,Power Industry,2016,1044.04806
+India,Power Industry,2017,1098.781509
+India,Power Industry,2018,1197.158015
+India,Power Industry,2019,1163.774784
+India,Power Industry,2020,1057.473232
+India,Power Industry,2021,1165.721752
+India,Power Industry,2022,1265.69459
+India,Power Industry,2023,1376.993524
+India,Processes,1973,16.92295785
+India,Processes,1974,16.06995827
+India,Processes,1975,17.60365212
+India,Processes,1976,19.44762049
+India,Processes,1977,19.58788011
+India,Processes,1978,20.12534987
+India,Processes,1979,19.93390528
+India,Processes,1980,18.75136812
+India,Processes,1981,22.01552371
+India,Processes,1982,22.92779774
+India,Processes,1983,23.77255566
+India,Processes,1984,27.08989385
+India,Processes,1985,28.96883998
+India,Processes,1986,30.85906978
+India,Processes,1987,32.82417039
+India,Processes,1988,36.60943323
+India,Processes,1989,39.28897279
+India,Processes,1990,41.41441356
+India,Processes,1991,44.9794356
+India,Processes,1992,43.97697073
+India,Processes,1993,46.6664312
+India,Processes,1994,50.00484108
+India,Processes,1995,53.40879693
+India,Processes,1996,55.99866931
+India,Processes,1997,61.72390681
+India,Processes,1998,70.89230726
+India,Processes,1999,69.53644164
+India,Processes,2000,70.95085019
+India,Processes,2001,73.39368189
+India,Processes,2002,79.38011385
+India,Processes,2003,83.34678903
+India,Processes,2004,87.42790008
+India,Processes,2005,92.01944525
+India,Processes,2006,96.8048363
+India,Processes,2007,106.1578694
+India,Processes,2008,111.2528839
+India,Processes,2009,117.0560937
+India,Processes,2010,124.8538261
+India,Processes,2011,139.7668623
+India,Processes,2012,160.2269289
+India,Processes,2013,164.6344736
+India,Processes,2014,155.3458869
+India,Processes,2015,162.8837306
+India,Processes,2016,175.1517443
+India,Processes,2017,184.9695239
+India,Processes,2018,190.7111103
+India,Processes,2019,194.8254865
+India,Processes,2020,177.4732913
+India,Processes,2021,203.0372522
+India,Processes,2022,218.7780917
+India,Processes,2023,233.4780082
+India,Transport,1973,42.92701074
+India,Transport,1974,46.10151922
+India,Transport,1975,47.81908724
+India,Transport,1976,47.20230462
+India,Transport,1977,48.60894534
+India,Transport,1978,50.25880179
+India,Transport,1979,52.96881664
+India,Transport,1980,55.29691439
+India,Transport,1981,56.00952649
+India,Transport,1982,47.91132551
+India,Transport,1983,49.67551884
+India,Transport,1984,49.86478941
+India,Transport,1985,52.73233569
+India,Transport,1986,53.72108241
+India,Transport,1987,56.77108872
+India,Transport,1988,58.95357308
+India,Transport,1989,64.45441123
+India,Transport,1990,64.38402495
+India,Transport,1991,66.92937431
+India,Transport,1992,68.54660087
+India,Transport,1993,68.55079665
+India,Transport,1994,70.8109987
+India,Transport,1995,78.29007851
+India,Transport,1996,83.80170807
+India,Transport,1997,85.80199649
+India,Transport,1998,88.77553398
+India,Transport,1999,93.31443927
+India,Transport,2000,95.08983443
+India,Transport,2001,94.91844166
+India,Transport,2002,97.7373583
+India,Transport,2003,99.52600029
+India,Transport,2004,108.0512238
+India,Transport,2005,115.4036643
+India,Transport,2006,120.648077
+India,Transport,2007,142.9764417
+India,Transport,2008,163.2097392
+India,Transport,2009,178.7119275
+India,Transport,2010,192.9188841
+India,Transport,2011,209.2898518
+India,Transport,2012,221.5177381
+India,Transport,2013,226.2589181
+India,Transport,2014,235.7471529
+India,Transport,2015,257.7478525
+India,Transport,2016,269.3869018
+India,Transport,2017,291.2317057
+India,Transport,2018,305.6905646
+India,Transport,2019,308.4561332
+India,Transport,2020,268.6635538
+India,Transport,2021,295.0933595
+India,Transport,2022,323.6090193
+India,Transport,2023,339.7605691
+Indonesia,Agriculture,1973,0.578233245
+Indonesia,Agriculture,1974,0.632028492
+Indonesia,Agriculture,1975,0.619457054
+Indonesia,Agriculture,1976,0.657485624
+Indonesia,Agriculture,1977,0.89409035
+Indonesia,Agriculture,1978,1.00880462
+Indonesia,Agriculture,1979,1.156466504
+Indonesia,Agriculture,1980,1.649371208
+Indonesia,Agriculture,1981,1.835218782
+Indonesia,Agriculture,1982,2.047623523
+Indonesia,Agriculture,1983,1.995871152
+Indonesia,Agriculture,1984,2.424085372
+Indonesia,Agriculture,1985,2.511142515
+Indonesia,Agriculture,1986,2.621142496
+Indonesia,Agriculture,1987,2.8537139
+Indonesia,Agriculture,1988,3.074971011
+Indonesia,Agriculture,1989,2.890328187
+Indonesia,Agriculture,1990,3.124313862
+Indonesia,Agriculture,1991,3.038513879
+Indonesia,Agriculture,1992,3.270142409
+Indonesia,Agriculture,1993,3.081256736
+Indonesia,Agriculture,1994,3.199428137
+Indonesia,Agriculture,1995,3.505856653
+Indonesia,Agriculture,1996,3.857070869
+Indonesia,Agriculture,1997,3.262285278
+Indonesia,Agriculture,1998,3.751523246
+Indonesia,Agriculture,1999,3.573794738
+Indonesia,Agriculture,2000,3.558866146
+Indonesia,Agriculture,2001,3.569185197
+Indonesia,Agriculture,2002,3.994047043
+Indonesia,Agriculture,2003,4.109547044
+Indonesia,Agriculture,2004,4.340337484
+Indonesia,Agriculture,2005,4.587261256
+Indonesia,Agriculture,2006,4.231227968
+Indonesia,Agriculture,2007,4.532523155
+Indonesia,Agriculture,2008,4.798094557
+Indonesia,Agriculture,2009,5.895684948
+Indonesia,Agriculture,2010,5.393456448
+Indonesia,Agriculture,2011,5.075451692
+Indonesia,Agriculture,2012,5.841051678
+Indonesia,Agriculture,2013,5.016418385
+Indonesia,Agriculture,2014,5.16072789
+Indonesia,Agriculture,2015,5.83869451
+Indonesia,Agriculture,2016,5.436408851
+Indonesia,Agriculture,2017,5.791761197
+Indonesia,Agriculture,2018,6.157223077
+Indonesia,Agriculture,2019,5.942827849
+Indonesia,Agriculture,2020,5.583808856
+Indonesia,Agriculture,2021,5.842832639
+Indonesia,Agriculture,2022,5.912993586
+Indonesia,Agriculture,2023,5.891575517
+Indonesia,Buildings,1973,8.526037725
+Indonesia,Buildings,1974,9.843513373
+Indonesia,Buildings,1975,11.30331046
+Indonesia,Buildings,1976,12.20132581
+Indonesia,Buildings,1977,13.56762075
+Indonesia,Buildings,1978,14.79151543
+Indonesia,Buildings,1979,16.62398016
+Indonesia,Buildings,1980,18.0491094
+Indonesia,Buildings,1981,19.4478393
+Indonesia,Buildings,1982,19.40027907
+Indonesia,Buildings,1983,18.89653733
+Indonesia,Buildings,1984,18.41410427
+Indonesia,Buildings,1985,17.87096357
+Indonesia,Buildings,1986,17.93514547
+Indonesia,Buildings,1987,17.94374373
+Indonesia,Buildings,1988,18.91818451
+Indonesia,Buildings,1989,22.39410922
+Indonesia,Buildings,1990,23.34813699
+Indonesia,Buildings,1991,24.06174717
+Indonesia,Buildings,1992,26.04228433
+Indonesia,Buildings,1993,26.90691218
+Indonesia,Buildings,1994,27.83506736
+Indonesia,Buildings,1995,29.78887974
+Indonesia,Buildings,1996,31.73855535
+Indonesia,Buildings,1997,32.03818352
+Indonesia,Buildings,1998,33.17530624
+Indonesia,Buildings,1999,40.1561913
+Indonesia,Buildings,2000,45.02374182
+Indonesia,Buildings,2001,45.3167273
+Indonesia,Buildings,2002,43.70035836
+Indonesia,Buildings,2003,43.21587679
+Indonesia,Buildings,2004,45.043223
+Indonesia,Buildings,2005,42.31195848
+Indonesia,Buildings,2006,37.86507978
+Indonesia,Buildings,2007,37.48158909
+Indonesia,Buildings,2008,34.42326424
+Indonesia,Buildings,2009,30.63086048
+Indonesia,Buildings,2010,27.36692976
+Indonesia,Buildings,2011,29.54315008
+Indonesia,Buildings,2012,33.55253407
+Indonesia,Buildings,2013,33.60791162
+Indonesia,Buildings,2014,33.04187037
+Indonesia,Buildings,2015,29.84070766
+Indonesia,Buildings,2016,29.76822231
+Indonesia,Buildings,2017,30.71033306
+Indonesia,Buildings,2018,30.09680247
+Indonesia,Buildings,2019,28.57867448
+Indonesia,Buildings,2020,28.67086988
+Indonesia,Buildings,2021,30.93880209
+Indonesia,Buildings,2022,30.48207969
+Indonesia,Buildings,2023,30.56282251
+Indonesia,Fuel Exploitation,1973,12.58855639
+Indonesia,Fuel Exploitation,1974,14.4174329
+Indonesia,Fuel Exploitation,1975,11.62809509
+Indonesia,Fuel Exploitation,1976,12.57087466
+Indonesia,Fuel Exploitation,1977,25.53237737
+Indonesia,Fuel Exploitation,1978,29.65746497
+Indonesia,Fuel Exploitation,1979,30.5583262
+Indonesia,Fuel Exploitation,1980,21.25271124
+Indonesia,Fuel Exploitation,1981,20.30887042
+Indonesia,Fuel Exploitation,1982,18.6242801
+Indonesia,Fuel Exploitation,1983,16.24918921
+Indonesia,Fuel Exploitation,1984,17.57134451
+Indonesia,Fuel Exploitation,1985,18.26363864
+Indonesia,Fuel Exploitation,1986,19.98973145
+Indonesia,Fuel Exploitation,1987,20.6449727
+Indonesia,Fuel Exploitation,1988,22.78567626
+Indonesia,Fuel Exploitation,1989,21.84772581
+Indonesia,Fuel Exploitation,1990,37.36749021
+Indonesia,Fuel Exploitation,1991,43.61905849
+Indonesia,Fuel Exploitation,1992,46.30390901
+Indonesia,Fuel Exploitation,1993,47.4376985
+Indonesia,Fuel Exploitation,1994,45.66766689
+Indonesia,Fuel Exploitation,1995,51.25875054
+Indonesia,Fuel Exploitation,1996,49.91492296
+Indonesia,Fuel Exploitation,1997,53.52987131
+Indonesia,Fuel Exploitation,1998,61.62774263
+Indonesia,Fuel Exploitation,1999,51.21090348
+Indonesia,Fuel Exploitation,2000,41.60901036
+Indonesia,Fuel Exploitation,2001,43.34312335
+Indonesia,Fuel Exploitation,2002,45.03610023
+Indonesia,Fuel Exploitation,2003,47.89574905
+Indonesia,Fuel Exploitation,2004,41.87948045
+Indonesia,Fuel Exploitation,2005,40.80011759
+Indonesia,Fuel Exploitation,2006,39.37476326
+Indonesia,Fuel Exploitation,2007,37.44013988
+Indonesia,Fuel Exploitation,2008,37.27793779
+Indonesia,Fuel Exploitation,2009,37.64606441
+Indonesia,Fuel Exploitation,2010,44.32348215
+Indonesia,Fuel Exploitation,2011,39.41445688
+Indonesia,Fuel Exploitation,2012,35.35948645
+Indonesia,Fuel Exploitation,2013,34.26472664
+Indonesia,Fuel Exploitation,2014,34.68373953
+Indonesia,Fuel Exploitation,2015,33.33969601
+Indonesia,Fuel Exploitation,2016,34.38463593
+Indonesia,Fuel Exploitation,2017,31.3286546
+Indonesia,Fuel Exploitation,2018,31.62150895
+Indonesia,Fuel Exploitation,2019,30.24204709
+Indonesia,Fuel Exploitation,2020,29.47568069
+Indonesia,Fuel Exploitation,2021,26.90381373
+Indonesia,Fuel Exploitation,2022,27.52923085
+Indonesia,Fuel Exploitation,2023,29.33717563
+Indonesia,Industrial Combustion,1973,5.703695907
+Indonesia,Industrial Combustion,1974,6.121240866
+Indonesia,Industrial Combustion,1975,7.756375689
+Indonesia,Industrial Combustion,1976,7.954035398
+Indonesia,Industrial Combustion,1977,9.871901072
+Indonesia,Industrial Combustion,1978,13.07467359
+Indonesia,Industrial Combustion,1979,16.26589442
+Indonesia,Industrial Combustion,1980,19.73786822
+Indonesia,Industrial Combustion,1981,21.15467147
+Indonesia,Industrial Combustion,1982,21.10333032
+Indonesia,Industrial Combustion,1983,21.8899502
+Indonesia,Industrial Combustion,1984,19.00401812
+Indonesia,Industrial Combustion,1985,24.05094354
+Indonesia,Industrial Combustion,1986,28.18228676
+Indonesia,Industrial Combustion,1987,26.01045401
+Indonesia,Industrial Combustion,1988,27.83690106
+Indonesia,Industrial Combustion,1989,26.09970383
+Indonesia,Industrial Combustion,1990,27.81299711
+Indonesia,Industrial Combustion,1991,27.66481203
+Indonesia,Industrial Combustion,1992,29.1469361
+Indonesia,Industrial Combustion,1993,32.19053492
+Indonesia,Industrial Combustion,1994,37.83865143
+Indonesia,Industrial Combustion,1995,46.741339
+Indonesia,Industrial Combustion,1996,46.8809363
+Indonesia,Industrial Combustion,1997,50.90020132
+Indonesia,Industrial Combustion,1998,47.63153883
+Indonesia,Industrial Combustion,1999,61.23913547
+Indonesia,Industrial Combustion,2000,57.94299952
+Indonesia,Industrial Combustion,2001,62.20601731
+Indonesia,Industrial Combustion,2002,58.98491406
+Indonesia,Industrial Combustion,2003,74.67166853
+Indonesia,Industrial Combustion,2004,80.25986625
+Indonesia,Industrial Combustion,2005,81.30047448
+Indonesia,Industrial Combustion,2006,104.6408285
+Indonesia,Industrial Combustion,2007,111.197127
+Indonesia,Industrial Combustion,2008,91.56900344
+Indonesia,Industrial Combustion,2009,100.2475799
+Indonesia,Industrial Combustion,2010,126.1733514
+Indonesia,Industrial Combustion,2011,136.2082956
+Indonesia,Industrial Combustion,2012,119.4214593
+Indonesia,Industrial Combustion,2013,79.35283511
+Indonesia,Industrial Combustion,2014,89.46547217
+Indonesia,Industrial Combustion,2015,101.2934079
+Indonesia,Industrial Combustion,2016,85.95171548
+Indonesia,Industrial Combustion,2017,91.61442395
+Indonesia,Industrial Combustion,2018,112.0734953
+Indonesia,Industrial Combustion,2019,147.0119772
+Indonesia,Industrial Combustion,2020,131.1226928
+Indonesia,Industrial Combustion,2021,130.7596724
+Indonesia,Industrial Combustion,2022,141.7750181
+Indonesia,Industrial Combustion,2023,141.2194566
+Indonesia,Power Industry,1973,4.186931316
+Indonesia,Power Industry,1974,3.870736865
+Indonesia,Power Industry,1975,4.203950525
+Indonesia,Power Industry,1976,4.93368709
+Indonesia,Power Industry,1977,5.811106378
+Indonesia,Power Industry,1978,6.273637805
+Indonesia,Power Industry,1979,6.449392332
+Indonesia,Power Industry,1980,6.848820356
+Indonesia,Power Industry,1981,7.862339354
+Indonesia,Power Industry,1982,8.615414611
+Indonesia,Power Industry,1983,8.868431651
+Indonesia,Power Industry,1984,10.67141747
+Indonesia,Power Industry,1985,11.56216948
+Indonesia,Power Industry,1986,14.16159916
+Indonesia,Power Industry,1987,16.20355933
+Indonesia,Power Industry,1988,17.3168025
+Indonesia,Power Industry,1989,17.997656
+Indonesia,Power Industry,1990,22.49280394
+Indonesia,Power Industry,1991,25.01806635
+Indonesia,Power Industry,1992,25.40585123
+Indonesia,Power Industry,1993,31.7778882
+Indonesia,Power Industry,1994,31.86120313
+Indonesia,Power Industry,1995,35.49171064
+Indonesia,Power Industry,1996,41.73894002
+Indonesia,Power Industry,1997,50.49747642
+Indonesia,Power Industry,1998,50.34490667
+Indonesia,Power Industry,1999,56.9224213
+Indonesia,Power Industry,2000,61.94856706
+Indonesia,Power Industry,2001,70.13307685
+Indonesia,Power Industry,2002,74.50366586
+Indonesia,Power Industry,2003,83.26335908
+Indonesia,Power Industry,2004,86.35138177
+Indonesia,Power Industry,2005,92.94010741
+Indonesia,Power Industry,2006,99.49407598
+Indonesia,Power Industry,2007,110.9202674
+Indonesia,Power Industry,2008,124.7396149
+Indonesia,Power Industry,2009,124.1823548
+Indonesia,Power Industry,2010,119.6623025
+Indonesia,Power Industry,2011,147.008834
+Indonesia,Power Industry,2012,143.9987496
+Indonesia,Power Industry,2013,149.1844206
+Indonesia,Power Industry,2014,168.8916697
+Indonesia,Power Industry,2015,171.4205415
+Indonesia,Power Industry,2016,181.0639989
+Indonesia,Power Industry,2017,195.098025
+Indonesia,Power Industry,2018,216.9985403
+Indonesia,Power Industry,2019,224.8023999
+Indonesia,Power Industry,2020,224.9390785
+Indonesia,Power Industry,2021,240.2560589
+Indonesia,Power Industry,2022,254.6385984
+Indonesia,Power Industry,2023,269.8987879
+Indonesia,Processes,1973,1.147012277
+Indonesia,Processes,1974,1.394840691
+Indonesia,Processes,1975,1.587021008
+Indonesia,Processes,1976,1.850960822
+Indonesia,Processes,1977,2.745074321
+Indonesia,Processes,1978,4.876812433
+Indonesia,Processes,1979,3.968036493
+Indonesia,Processes,1980,5.148669282
+Indonesia,Processes,1981,5.348863157
+Indonesia,Processes,1982,5.736534382
+Indonesia,Processes,1983,7.325605318
+Indonesia,Processes,1984,9.00596209
+Indonesia,Processes,1985,10.59430148
+Indonesia,Processes,1986,11.77796193
+Indonesia,Processes,1987,12.02876922
+Indonesia,Processes,1988,12.15464427
+Indonesia,Processes,1989,14.38418842
+Indonesia,Processes,1990,15.37860223
+Indonesia,Processes,1991,15.35241602
+Indonesia,Processes,1992,14.41186371
+Indonesia,Processes,1993,17.90561027
+Indonesia,Processes,1994,20.92176075
+Indonesia,Processes,1995,22.98810458
+Indonesia,Processes,1996,23.21616048
+Indonesia,Processes,1997,24.58067759
+Indonesia,Processes,1998,22.44588711
+Indonesia,Processes,1999,23.30180652
+Indonesia,Processes,2000,26.22864505
+Indonesia,Processes,2001,28.16517167
+Indonesia,Processes,2002,30.65462546
+Indonesia,Processes,2003,31.10434062
+Indonesia,Processes,2004,31.3549425
+Indonesia,Processes,2005,30.71872887
+Indonesia,Processes,2006,31.41923284
+Indonesia,Processes,2007,32.37800047
+Indonesia,Processes,2008,32.27722871
+Indonesia,Processes,2009,30.96527659
+Indonesia,Processes,2010,31.54359346
+Indonesia,Processes,2011,34.08984198
+Indonesia,Processes,2012,36.33831761
+Indonesia,Processes,2013,37.29584589
+Indonesia,Processes,2014,37.18164579
+Indonesia,Processes,2015,38.50319964
+Indonesia,Processes,2016,42.22245353
+Indonesia,Processes,2017,45.97711442
+Indonesia,Processes,2018,49.3832334
+Indonesia,Processes,2019,51.09385809
+Indonesia,Processes,2020,47.49117459
+Indonesia,Processes,2021,48.79168617
+Indonesia,Processes,2022,48.60382866
+Indonesia,Processes,2023,47.91334801
+Indonesia,Transport,1973,9.256706832
+Indonesia,Transport,1974,10.63485143
+Indonesia,Transport,1975,11.64831861
+Indonesia,Transport,1976,12.30931492
+Indonesia,Transport,1977,13.32582308
+Indonesia,Transport,1978,14.73165546
+Indonesia,Transport,1979,15.84020851
+Indonesia,Transport,1980,17.85415772
+Indonesia,Transport,1981,19.64032812
+Indonesia,Transport,1982,20.81207977
+Indonesia,Transport,1983,20.13213373
+Indonesia,Transport,1984,20.48743821
+Indonesia,Transport,1985,21.12068753
+Indonesia,Transport,1986,22.36901396
+Indonesia,Transport,1987,24.46078145
+Indonesia,Transport,1988,26.50952599
+Indonesia,Transport,1989,28.82721504
+Indonesia,Transport,1990,32.1979947
+Indonesia,Transport,1991,35.85064644
+Indonesia,Transport,1992,37.91341834
+Indonesia,Transport,1993,40.488279
+Indonesia,Transport,1994,45.35300755
+Indonesia,Transport,1995,49.25679778
+Indonesia,Transport,1996,54.59768654
+Indonesia,Transport,1997,60.65003149
+Indonesia,Transport,1998,59.19949439
+Indonesia,Transport,1999,58.78316475
+Indonesia,Transport,2000,62.68612776
+Indonesia,Transport,2001,66.75305326
+Indonesia,Transport,2002,67.99046219
+Indonesia,Transport,2003,69.27427382
+Indonesia,Transport,2004,70.82856156
+Indonesia,Transport,2005,69.83829559
+Indonesia,Transport,2006,66.29464561
+Indonesia,Transport,2007,67.8143903
+Indonesia,Transport,2008,72.07025502
+Indonesia,Transport,2009,81.68173799
+Indonesia,Transport,2010,89.11388273
+Indonesia,Transport,2011,108.4960185
+Indonesia,Transport,2012,129.6247157
+Indonesia,Transport,2013,136.1180749
+Indonesia,Transport,2014,136.5869852
+Indonesia,Transport,2015,132.024991
+Indonesia,Transport,2016,128.0996805
+Indonesia,Transport,2017,135.043682
+Indonesia,Transport,2018,150.9892094
+Indonesia,Transport,2019,149.4780949
+Indonesia,Transport,2020,126.8163643
+Indonesia,Transport,2021,135.6673542
+Indonesia,Transport,2022,147.5567534
+Indonesia,Transport,2023,149.5384914
+Indonesia,Waste,1973,0.023055166
+Indonesia,Waste,1974,0.024229623
+Indonesia,Waste,1975,0.025440506
+Indonesia,Waste,1976,0.026832995
+Indonesia,Waste,1977,0.028267113
+Indonesia,Waste,1978,0.029745462
+Indonesia,Waste,1979,0.031271164
+Indonesia,Waste,1980,0.03284526
+Indonesia,Waste,1981,0.034834604
+Indonesia,Waste,1982,0.036888474
+Indonesia,Waste,1983,0.039002185
+Indonesia,Waste,1984,0.04116585
+Indonesia,Waste,1985,0.043371145
+Indonesia,Waste,1986,0.045787707
+Indonesia,Waste,1987,0.048247979
+Indonesia,Waste,1988,0.050752483
+Indonesia,Waste,1989,0.053304339
+Indonesia,Waste,1990,0.055906149
+Indonesia,Waste,1991,0.058928413
+Indonesia,Waste,1992,0.062011038
+Indonesia,Waste,1993,0.065151424
+Indonesia,Waste,1994,0.068343846
+Indonesia,Waste,1995,0.071584661
+Indonesia,Waste,1996,0.075046631
+Indonesia,Waste,1997,0.078561677
+Indonesia,Waste,1998,0.082137606
+Indonesia,Waste,1999,0.085785345
+Indonesia,Waste,2000,0.094340099
+Indonesia,Waste,2001,0.097457588
+Indonesia,Waste,2002,0.100640644
+Indonesia,Waste,2003,0.103890826
+Indonesia,Waste,2004,0.107207614
+Indonesia,Waste,2005,0.110589968
+Indonesia,Waste,2006,0.114052978
+Indonesia,Waste,2007,0.117581554
+Indonesia,Waste,2008,0.121173614
+Indonesia,Waste,2009,0.124824475
+Indonesia,Waste,2010,0.128530494
+Indonesia,Waste,2011,0.131991943
+Indonesia,Waste,2012,0.135493981
+Indonesia,Waste,2013,0.13902776
+Indonesia,Waste,2014,0.142579232
+Indonesia,Waste,2015,0.146136948
+Indonesia,Waste,2016,0.149653035
+Indonesia,Waste,2017,0.153167041
+Indonesia,Waste,2018,0.156678965
+Indonesia,Waste,2019,0.160192971
+Indonesia,Waste,2020,0.163713221
+Indonesia,Waste,2021,0.167191842
+Indonesia,Waste,2022,0.170699603
+Indonesia,Waste,2023,0.174280959
+Japan,Agriculture,1973,0.553457116
+Japan,Agriculture,1974,0.431671409
+Japan,Agriculture,1975,0.433085695
+Japan,Agriculture,1976,0.478499981
+Japan,Agriculture,1977,0.468914267
+Japan,Agriculture,1978,0.444399983
+Japan,Agriculture,1979,0.470328552
+Japan,Agriculture,1980,1.266571401
+Japan,Agriculture,1981,1.385999971
+Japan,Agriculture,1982,1.484999968
+Japan,Agriculture,1983,1.51642854
+Japan,Agriculture,1984,1.492857113
+Japan,Agriculture,1985,1.433142824
+Japan,Agriculture,1986,1.445714252
+Japan,Agriculture,1987,1.352999968
+Japan,Agriculture,1988,1.368714254
+Japan,Agriculture,1989,1.359285682
+Japan,Agriculture,1990,1.275999967
+Japan,Agriculture,1991,1.178571403
+Japan,Agriculture,1992,1.145571403
+Japan,Agriculture,1993,1.178885684
+Japan,Agriculture,1994,1.263585684
+Japan,Agriculture,1995,1.203085684
+Japan,Agriculture,1996,1.174014257
+Japan,Agriculture,1997,1.132999971
+Japan,Agriculture,1998,1.083971399
+Japan,Agriculture,1999,1.086799972
+Japan,Agriculture,2000,1.04719997
+Japan,Agriculture,2001,1.079571401
+Japan,Agriculture,2002,1.150285668
+Japan,Agriculture,2003,1.053171401
+Japan,Agriculture,2004,0.999742837
+Japan,Agriculture,2005,0.938142836
+Japan,Agriculture,2006,0.115185705
+Japan,Agriculture,2007,0.766595212
+Japan,Agriculture,2008,0.866223776
+Japan,Agriculture,2009,0.724166637
+Japan,Agriculture,2010,0.663090444
+Japan,Agriculture,2011,0.778328538
+Japan,Agriculture,2012,0.723380919
+Japan,Agriculture,2013,0.725790445
+Japan,Agriculture,2014,0.664190446
+Japan,Agriculture,2015,0.634752353
+Japan,Agriculture,2016,0.685142827
+Japan,Agriculture,2017,0.667699968
+Japan,Agriculture,2018,0.638261874
+Japan,Agriculture,2019,0.618042827
+Japan,Agriculture,2020,0.642923783
+Japan,Agriculture,2021,0.610604734
+Japan,Agriculture,2022,0.578858361
+Japan,Agriculture,2023,0.573467275
+Japan,Buildings,1973,123.358096
+Japan,Buildings,1974,120.6626108
+Japan,Buildings,1975,118.389389
+Japan,Buildings,1976,124.4773259
+Japan,Buildings,1977,126.4386482
+Japan,Buildings,1978,132.4785014
+Japan,Buildings,1979,132.1083243
+Japan,Buildings,1980,124.8512107
+Japan,Buildings,1981,128.8408614
+Japan,Buildings,1982,119.6565842
+Japan,Buildings,1983,125.2568695
+Japan,Buildings,1984,136.2993849
+Japan,Buildings,1985,131.8076676
+Japan,Buildings,1986,136.4655465
+Japan,Buildings,1987,137.1016091
+Japan,Buildings,1988,150.8812711
+Japan,Buildings,1989,146.5957613
+Japan,Buildings,1990,138.3937188
+Japan,Buildings,1991,140.6378157
+Japan,Buildings,1992,144.9311122
+Japan,Buildings,1993,150.5322239
+Japan,Buildings,1994,146.2938694
+Japan,Buildings,1995,154.8524373
+Japan,Buildings,1996,157.5558256
+Japan,Buildings,1997,157.8752248
+Japan,Buildings,1998,161.108992
+Japan,Buildings,1999,168.2732684
+Japan,Buildings,2000,171.543964
+Japan,Buildings,2001,171.8156157
+Japan,Buildings,2002,180.538314
+Japan,Buildings,2003,175.2488271
+Japan,Buildings,2004,175.6999384
+Japan,Buildings,2005,175.3039387
+Japan,Buildings,2006,167.9127842
+Japan,Buildings,2007,162.9951859
+Japan,Buildings,2008,151.6066199
+Japan,Buildings,2009,145.408467
+Japan,Buildings,2010,144.4097057
+Japan,Buildings,2011,141.5586152
+Japan,Buildings,2012,137.8600037
+Japan,Buildings,2013,141.7776769
+Japan,Buildings,2014,135.3202182
+Japan,Buildings,2015,131.963986
+Japan,Buildings,2016,129.1959613
+Japan,Buildings,2017,133.4642848
+Japan,Buildings,2018,125.6653463
+Japan,Buildings,2019,124.7062348
+Japan,Buildings,2020,121.943929
+Japan,Buildings,2021,117.2811838
+Japan,Buildings,2022,115.1588662
+Japan,Buildings,2023,109.0518494
+Japan,Fuel Exploitation,1973,65.59230319
+Japan,Fuel Exploitation,1974,79.08970993
+Japan,Fuel Exploitation,1975,67.05979418
+Japan,Fuel Exploitation,1976,70.30412869
+Japan,Fuel Exploitation,1977,68.0607906
+Japan,Fuel Exploitation,1978,64.23429652
+Japan,Fuel Exploitation,1979,64.29918813
+Japan,Fuel Exploitation,1980,85.48265665
+Japan,Fuel Exploitation,1981,90.58680844
+Japan,Fuel Exploitation,1982,90.5419296
+Japan,Fuel Exploitation,1983,84.59063224
+Japan,Fuel Exploitation,1984,90.03228119
+Japan,Fuel Exploitation,1985,88.86332906
+Japan,Fuel Exploitation,1986,85.21677622
+Japan,Fuel Exploitation,1987,84.79064723
+Japan,Fuel Exploitation,1988,88.80326684
+Japan,Fuel Exploitation,1989,88.6752995
+Japan,Fuel Exploitation,1990,78.39624886
+Japan,Fuel Exploitation,1991,75.68915915
+Japan,Fuel Exploitation,1992,72.6297546
+Japan,Fuel Exploitation,1993,74.01212423
+Japan,Fuel Exploitation,1994,71.98834589
+Japan,Fuel Exploitation,1995,70.99630792
+Japan,Fuel Exploitation,1996,70.40971709
+Japan,Fuel Exploitation,1997,70.27912643
+Japan,Fuel Exploitation,1998,66.62763503
+Japan,Fuel Exploitation,1999,69.49468152
+Japan,Fuel Exploitation,2000,67.7714366
+Japan,Fuel Exploitation,2001,65.33041483
+Japan,Fuel Exploitation,2002,66.01023667
+Japan,Fuel Exploitation,2003,65.0101639
+Japan,Fuel Exploitation,2004,65.62228048
+Japan,Fuel Exploitation,2005,68.364422630000007
+Japan,Fuel Exploitation,2006,68.68652821
+Japan,Fuel Exploitation,2007,69.58744444
+Japan,Fuel Exploitation,2008,65.06121139
+Japan,Fuel Exploitation,2009,64.17049012
+Japan,Fuel Exploitation,2010,66.50354798
+Japan,Fuel Exploitation,2011,62.01213376
+Japan,Fuel Exploitation,2012,61.25401719
+Japan,Fuel Exploitation,2013,62.38693599
+Japan,Fuel Exploitation,2014,61.09443951
+Japan,Fuel Exploitation,2015,59.51416933
+Japan,Fuel Exploitation,2016,57.78283278
+Japan,Fuel Exploitation,2017,54.57765297
+Japan,Fuel Exploitation,2018,56.4229532
+Japan,Fuel Exploitation,2019,54.13567292
+Japan,Fuel Exploitation,2020,47.5246414
+Japan,Fuel Exploitation,2021,49.28779201
+Japan,Fuel Exploitation,2022,39.32050963
+Japan,Fuel Exploitation,2023,35.05890957
+Japan,Industrial Combustion,1973,300.1576883
+Japan,Industrial Combustion,1974,296.4318349
+Japan,Industrial Combustion,1975,269.3401497
+Japan,Industrial Combustion,1976,273.2400901
+Japan,Industrial Combustion,1977,261.0730448
+Japan,Industrial Combustion,1978,243.6535556
+Japan,Industrial Combustion,1979,253.733019
+Japan,Industrial Combustion,1980,241.0201885
+Japan,Industrial Combustion,1981,224.1702946
+Japan,Industrial Combustion,1982,229.3159734
+Japan,Industrial Combustion,1983,220.6005463
+Japan,Industrial Combustion,1984,233.2584856
+Japan,Industrial Combustion,1985,231.3744317
+Japan,Industrial Combustion,1986,222.9639129
+Japan,Industrial Combustion,1987,220.6005854
+Japan,Industrial Combustion,1988,231.1588264
+Japan,Industrial Combustion,1989,236.4070496
+Japan,Industrial Combustion,1990,262.5320235
+Japan,Industrial Combustion,1991,261.0598335
+Japan,Industrial Combustion,1992,256.5450403
+Japan,Industrial Combustion,1993,255.0616406
+Japan,Industrial Combustion,1994,257.6828757
+Japan,Industrial Combustion,1995,262.6945986
+Japan,Industrial Combustion,1996,262.0930329
+Japan,Industrial Combustion,1997,255.0010772
+Japan,Industrial Combustion,1998,232.0113166
+Japan,Industrial Combustion,1999,235.1666483
+Japan,Industrial Combustion,2000,239.7137646
+Japan,Industrial Combustion,2001,234.3395613
+Japan,Industrial Combustion,2002,236.6226796
+Japan,Industrial Combustion,2003,233.4215963
+Japan,Industrial Combustion,2004,232.4864832
+Japan,Industrial Combustion,2005,234.3580253
+Japan,Industrial Combustion,2006,235.0327707
+Japan,Industrial Combustion,2007,231.9095847
+Japan,Industrial Combustion,2008,211.8848022
+Japan,Industrial Combustion,2009,200.0349
+Japan,Industrial Combustion,2010,211.8930198
+Japan,Industrial Combustion,2011,218.4440844
+Japan,Industrial Combustion,2012,214.6856812
+Japan,Industrial Combustion,2013,215.4068223
+Japan,Industrial Combustion,2014,209.0474444
+Japan,Industrial Combustion,2015,201.2799724
+Japan,Industrial Combustion,2016,194.6484477
+Japan,Industrial Combustion,2017,195.1895545
+Japan,Industrial Combustion,2018,194.3152404
+Japan,Industrial Combustion,2019,186.9620127
+Japan,Industrial Combustion,2020,171.9313499
+Japan,Industrial Combustion,2021,181.6138017
+Japan,Industrial Combustion,2022,165.4264506
+Japan,Industrial Combustion,2023,155.2296766
+Japan,Power Industry,1973,304.7440791
+Japan,Power Industry,1974,298.3996589
+Japan,Power Industry,1975,290.094593
+Japan,Power Industry,1976,296.8901892
+Japan,Power Industry,1977,326.5243253
+Japan,Power Industry,1978,325.7875126
+Japan,Power Industry,1979,330.6991599
+Japan,Power Industry,1980,303.5564987
+Japan,Power Industry,1981,298.5880344
+Japan,Power Industry,1982,271.1776938
+Japan,Power Industry,1983,279.906089
+Japan,Power Industry,1984,311.927706
+Japan,Power Industry,1985,295.1230073
+Japan,Power Industry,1986,296.2007412
+Japan,Power Industry,1987,298.4017652
+Japan,Power Industry,1988,328.2726064
+Japan,Power Industry,1989,341.8132872
+Japan,Power Industry,1990,389.686092
+Japan,Power Industry,1991,390.8848333
+Japan,Power Industry,1992,396.1643567
+Japan,Power Industry,1993,378.5087567
+Japan,Power Industry,1994,418.6974604
+Japan,Power Industry,1995,407.6406454
+Japan,Power Industry,1996,413.3426643
+Japan,Power Industry,1997,406.1991647
+Japan,Power Industry,1998,389.7982624
+Japan,Power Industry,1999,415.3188063
+Japan,Power Industry,2000,425.7548836
+Japan,Power Industry,2001,419.003792
+Japan,Power Industry,2002,448.8599691
+Japan,Power Industry,2003,467.7648922
+Japan,Power Industry,2004,462.2068326
+Japan,Power Industry,2005,471.1149629
+Japan,Power Industry,2006,459.8024382
+Japan,Power Industry,2007,509.5787251
+Japan,Power Industry,2008,487.1618667
+Japan,Power Industry,2009,458.7932576
+Japan,Power Industry,2010,500.3655121
+Japan,Power Industry,2011,560.4750697
+Japan,Power Industry,2012,610.3203749
+Japan,Power Industry,2013,620.1839833
+Japan,Power Industry,2014,590.7315566
+Japan,Power Industry,2015,564.3619494
+Japan,Power Industry,2016,565.1001816
+Japan,Power Industry,2017,550.5372432
+Japan,Power Industry,2018,521.2704744
+Japan,Power Industry,2019,497.7621052
+Japan,Power Industry,2020,482.2348382
+Japan,Power Industry,2021,481.8857826
+Japan,Power Industry,2022,432.8552186
+Japan,Power Industry,2023,397.9039517
+Japan,Processes,1973,91.49501489
+Japan,Processes,1974,85.40426509
+Japan,Processes,1975,75.12546508
+Japan,Processes,1976,80.50970711
+Japan,Processes,1977,82.02244757
+Japan,Processes,1978,88.93484721
+Japan,Processes,1979,90.33002151
+Japan,Processes,1980,86.5177353
+Japan,Processes,1981,80.99911913
+Japan,Processes,1982,75.99607639
+Japan,Processes,1983,75.63061768
+Japan,Processes,1984,77.48577962
+Japan,Processes,1985,72.38863644
+Japan,Processes,1986,70.12964117
+Japan,Processes,1987,71.41649341
+Japan,Processes,1988,76.96280529
+Japan,Processes,1989,79.56317425
+Japan,Processes,1990,81.2759132
+Japan,Processes,1991,81.81413869
+Japan,Processes,1992,79.94982378
+Japan,Processes,1993,79.44895007
+Japan,Processes,1994,83.5465221
+Japan,Processes,1995,83.79375326
+Japan,Processes,1996,83.71059665
+Japan,Processes,1997,80.87145072
+Japan,Processes,1998,74.28763777
+Japan,Processes,1999,74.32805033
+Japan,Processes,2000,76.52989987
+Japan,Processes,2001,75.12006797
+Japan,Processes,2002,72.51705663
+Japan,Processes,2003,72.59756704
+Japan,Processes,2004,72.9429635
+Japan,Processes,2005,74.39860592
+Japan,Processes,2006,74.19699503
+Japan,Processes,2007,74.05827795
+Japan,Processes,2008,69.54418708
+Japan,Processes,2009,60.55456069
+Japan,Processes,2010,64.23719264
+Japan,Processes,2011,63.28931168
+Japan,Processes,2012,61.99907606
+Japan,Processes,2013,64.0075046
+Japan,Processes,2014,63.72926608
+Japan,Processes,2015,62.29641815
+Japan,Processes,2016,72.94565704
+Japan,Processes,2017,72.59038953
+Japan,Processes,2018,72.51452479
+Japan,Processes,2019,71.05555156
+Japan,Processes,2020,63.24060566
+Japan,Processes,2021,67.67703509
+Japan,Processes,2022,66.77798455
+Japan,Processes,2023,64.08680279
+Japan,Transport,1973,118.0919045
+Japan,Transport,1974,120.0637289
+Japan,Transport,1975,125.4615627
+Japan,Transport,1976,132.0123355
+Japan,Transport,1977,138.3276071
+Japan,Transport,1978,147.9377617
+Japan,Transport,1979,155.5620779
+Japan,Transport,1980,157.4686643
+Japan,Transport,1981,153.9969417
+Japan,Transport,1982,148.5333005
+Japan,Transport,1983,152.6538363
+Japan,Transport,1984,157.4284804
+Japan,Transport,1985,159.3111941
+Japan,Transport,1986,164.8700751
+Japan,Transport,1987,170.9024338
+Japan,Transport,1988,179.9744618
+Japan,Transport,1989,192.8064167
+Japan,Transport,1990,211.9623375
+Japan,Transport,1991,222.3298853
+Japan,Transport,1992,227.0187761
+Japan,Transport,1993,232.1185435
+Japan,Transport,1994,244.2423592
+Japan,Transport,1995,252.4513347
+Japan,Transport,1996,258.272642
+Japan,Transport,1997,260.4714959
+Japan,Transport,1998,259.6622882
+Japan,Transport,1999,261.9993005
+Japan,Transport,2000,261.5439401
+Japan,Transport,2001,263.6219859
+Japan,Transport,2002,259.1154566
+Japan,Transport,2003,256.8401955
+Japan,Transport,2004,256.7932202
+Japan,Transport,2005,254.0177504
+Japan,Transport,2006,250.1337737
+Japan,Transport,2007,242.9093692
+Japan,Transport,2008,233.809933
+Japan,Transport,2009,227.6361347
+Japan,Transport,2010,228.6503497
+Japan,Transport,2011,223.0272924
+Japan,Transport,2012,220.6992997
+Japan,Transport,2013,218.0273816
+Japan,Transport,2014,211.9674351
+Japan,Transport,2015,211.3431519
+Japan,Transport,2016,208.9082127
+Japan,Transport,2017,207.0501538
+Japan,Transport,2018,204.5087476
+Japan,Transport,2019,200.3589966
+Japan,Transport,2020,181.229623
+Japan,Transport,2021,183.2350502
+Japan,Transport,2022,186.5864547
+Japan,Transport,2023,179.6329502
+Japan,Waste,1973,2.631940347
+Japan,Waste,1974,2.704675563
+Japan,Waste,1975,2.776103539
+Japan,Waste,1976,2.820873701
+Japan,Waste,1977,2.863097281
+Japan,Waste,1978,2.903186847
+Japan,Waste,1979,2.941926169
+Japan,Waste,1980,2.979852084
+Japan,Waste,1981,3.017479233
+Japan,Waste,1982,3.054168753
+Japan,Waste,1983,3.089687401
+Japan,Waste,1984,3.123779648
+Japan,Waste,1985,3.156222194
+Japan,Waste,1986,3.187623432
+Japan,Waste,1987,3.217476854
+Japan,Waste,1988,3.24612787
+Japan,Waste,1989,3.273981478
+Japan,Waste,1990,3.301373394
+Japan,Waste,1991,3.266189215
+Japan,Waste,1992,3.496793484
+Japan,Waste,1993,3.884419335
+Japan,Waste,1994,4.245932523
+Japan,Waste,1995,5.007683371
+Japan,Waste,1996,4.903881998
+Japan,Waste,1997,5.123314472
+Japan,Waste,1998,5.183626896
+Japan,Waste,1999,5.059905301
+Japan,Waste,2000,4.901668122
+Japan,Waste,2001,4.911133624
+Japan,Waste,2002,4.615488298
+Japan,Waste,2003,4.774845427
+Japan,Waste,2004,4.632652166
+Japan,Waste,2005,4.521800618
+Japan,Waste,2006,4.418705112
+Japan,Waste,2007,4.445535022
+Japan,Waste,2008,5.024435168
+Japan,Waste,2009,4.090081995
+Japan,Waste,2010,3.731080171
+Japan,Waste,2011,3.76066062
+Japan,Waste,2012,3.75795446
+Japan,Waste,2013,4.194009631
+Japan,Waste,2014,3.700936733
+Japan,Waste,2015,4.024274118
+Japan,Waste,2016,3.610421137
+Japan,Waste,2017,3.771450488
+Japan,Waste,2018,3.882088591
+Japan,Waste,2019,3.898809085
+Japan,Waste,2020,3.421606755
+Japan,Waste,2021,3.330390825
+Japan,Waste,2022,3.274384762
+Japan,Waste,2023,3.221002646
+South Korea,Agriculture,1973,0.413757068
+South Korea,Agriculture,1974,0.54245705
+South Korea,Agriculture,1975,0.650885614
+South Korea,Agriculture,1976,0.458071357
+South Korea,Agriculture,1977,0.435914218
+South Korea,Agriculture,1978,0.494999921
+South Korea,Agriculture,1979,0.433242785
+South Korea,Agriculture,1980,0.436071354
+South Korea,Agriculture,1981,0.38924279
+South Korea,Agriculture,1982,0.263685669
+South Korea,Agriculture,1983,0.333142802
+South Korea,Agriculture,1984,0.35749994
+South Korea,Agriculture,1985,0.369599939
+South Korea,Agriculture,1986,0.371485652
+South Korea,Agriculture,1987,0.389242794
+South Korea,Agriculture,1988,0.399771364
+South Korea,Agriculture,1989,0.426642787
+South Korea,Agriculture,1990,0.427742787
+South Korea,Agriculture,1991,0.374628509
+South Korea,Agriculture,1992,0.37698565
+South Korea,Agriculture,1993,0.351999941
+South Korea,Agriculture,1994,0.356714225
+South Korea,Agriculture,1995,0.344142799
+South Korea,Agriculture,1996,0.336285658
+South Korea,Agriculture,1997,0.43214279
+South Korea,Agriculture,1998,0.34571423
+South Korea,Agriculture,1999,0.312399948
+South Korea,Agriculture,2000,0.298414237
+South Korea,Agriculture,2001,0.319628518
+South Korea,Agriculture,2002,0.210257109
+South Korea,Agriculture,2003,0.20695711
+South Korea,Agriculture,2004,0.263685675
+South Korea,Agriculture,2005,0.209471395
+South Korea,Agriculture,2006,0.181028542
+South Korea,Agriculture,2007,0.179771399
+South Korea,Agriculture,2008,0.16814283
+South Korea,Agriculture,2009,0.160285689
+South Korea,Agriculture,2010,0.152428547
+South Korea,Agriculture,2011,0.141428549
+South Korea,Agriculture,2012,0.144571406
+South Korea,Agriculture,2013,0.35346661
+South Korea,Agriculture,2014,0.359123755
+South Korea,Agriculture,2015,0.431199931
+South Korea,Agriculture,2016,0.444190405
+South Korea,Agriculture,2017,0.421771363
+South Korea,Agriculture,2018,0.385942797
+South Korea,Agriculture,2019,0.387304701
+South Korea,Agriculture,2020,0.428214218
+South Korea,Agriculture,2021,0.456342786
+South Korea,Agriculture,2022,0.455121907
+South Korea,Agriculture,2023,0.455121907
+South Korea,Buildings,1973,27.99439796
+South Korea,Buildings,1974,29.17658834
+South Korea,Buildings,1975,29.90221754
+South Korea,Buildings,1976,32.48527869
+South Korea,Buildings,1977,38.66793259
+South Korea,Buildings,1978,39.36133796
+South Korea,Buildings,1979,41.04785498
+South Korea,Buildings,1980,46.36229942
+South Korea,Buildings,1981,50.74271566
+South Korea,Buildings,1982,48.91921188
+South Korea,Buildings,1983,50.42770373
+South Korea,Buildings,1984,56.13727269
+South Korea,Buildings,1985,59.97571819
+South Korea,Buildings,1986,63.83582438
+South Korea,Buildings,1987,64.31479139
+South Korea,Buildings,1988,66.839732
+South Korea,Buildings,1989,66.55699113
+South Korea,Buildings,1990,71.7261975
+South Korea,Buildings,1991,69.28311053
+South Korea,Buildings,1992,70.2501246
+South Korea,Buildings,1993,73.01721941
+South Korea,Buildings,1994,74.85803416
+South Korea,Buildings,1995,81.5240148
+South Korea,Buildings,1996,84.82990158
+South Korea,Buildings,1997,85.98246131
+South Korea,Buildings,1998,66.49358482
+South Korea,Buildings,1999,78.78707818
+South Korea,Buildings,2000,74.30933053
+South Korea,Buildings,2001,71.65465485
+South Korea,Buildings,2002,72.30578495
+South Korea,Buildings,2003,70.61012033
+South Korea,Buildings,2004,66.10846039
+South Korea,Buildings,2005,68.92827431
+South Korea,Buildings,2006,63.00032331
+South Korea,Buildings,2007,61.177649099999996
+South Korea,Buildings,2008,59.04085703
+South Korea,Buildings,2009,59.08091871
+South Korea,Buildings,2010,62.97321835
+South Korea,Buildings,2011,61.87259293
+South Korea,Buildings,2012,60.75327989
+South Korea,Buildings,2013,60.71128764
+South Korea,Buildings,2014,54.41460956
+South Korea,Buildings,2015,56.02976647
+South Korea,Buildings,2016,58.23582093
+South Korea,Buildings,2017,59.58141699
+South Korea,Buildings,2018,58.45475866
+South Korea,Buildings,2019,54.99131383
+South Korea,Buildings,2020,55.06121248
+South Korea,Buildings,2021,53.19446685
+South Korea,Buildings,2022,53.09982625
+South Korea,Buildings,2023,51.42018849
+South Korea,Fuel Exploitation,1973,6.425371565
+South Korea,Fuel Exploitation,1974,7.67886412
+South Korea,Fuel Exploitation,1975,6.977940794
+South Korea,Fuel Exploitation,1976,9.720546024
+South Korea,Fuel Exploitation,1977,10.6581448
+South Korea,Fuel Exploitation,1978,8.082603049
+South Korea,Fuel Exploitation,1979,11.83564367
+South Korea,Fuel Exploitation,1980,11.73054126
+South Korea,Fuel Exploitation,1981,14.81359657
+South Korea,Fuel Exploitation,1982,16.28613719
+South Korea,Fuel Exploitation,1983,19.9996067
+South Korea,Fuel Exploitation,1984,24.91491195
+South Korea,Fuel Exploitation,1985,28.6474442
+South Korea,Fuel Exploitation,1986,26.88129283
+South Korea,Fuel Exploitation,1987,25.73560182
+South Korea,Fuel Exploitation,1988,28.42396352
+South Korea,Fuel Exploitation,1989,30.1386642
+South Korea,Fuel Exploitation,1990,21.57997684
+South Korea,Fuel Exploitation,1991,21.33499607
+South Korea,Fuel Exploitation,1992,16.74544401
+South Korea,Fuel Exploitation,1993,17.86588148
+South Korea,Fuel Exploitation,1994,16.59480905
+South Korea,Fuel Exploitation,1995,17.02199357
+South Korea,Fuel Exploitation,1996,18.25252514
+South Korea,Fuel Exploitation,1997,20.64912515
+South Korea,Fuel Exploitation,1998,20.59443968
+South Korea,Fuel Exploitation,1999,20.84453649
+South Korea,Fuel Exploitation,2000,24.22952077
+South Korea,Fuel Exploitation,2001,24.30851098
+South Korea,Fuel Exploitation,2002,29.57193022
+South Korea,Fuel Exploitation,2003,29.43570477
+South Korea,Fuel Exploitation,2004,29.32778157
+South Korea,Fuel Exploitation,2005,32.79367204
+South Korea,Fuel Exploitation,2006,30.02841044
+South Korea,Fuel Exploitation,2007,37.58553257
+South Korea,Fuel Exploitation,2008,39.72358021
+South Korea,Fuel Exploitation,2009,37.42735624
+South Korea,Fuel Exploitation,2010,41.69657469
+South Korea,Fuel Exploitation,2011,47.53877712
+South Korea,Fuel Exploitation,2012,49.0419905
+South Korea,Fuel Exploitation,2013,49.17172547
+South Korea,Fuel Exploitation,2014,58.43187251
+South Korea,Fuel Exploitation,2015,56.46228416
+South Korea,Fuel Exploitation,2016,63.79723862
+South Korea,Fuel Exploitation,2017,58.21066422
+South Korea,Fuel Exploitation,2018,55.30547098
+South Korea,Fuel Exploitation,2019,57.50795011
+South Korea,Fuel Exploitation,2020,55.39941086
+South Korea,Fuel Exploitation,2021,55.61849654
+South Korea,Fuel Exploitation,2022,51.87025433
+South Korea,Fuel Exploitation,2023,49.07893883
+South Korea,Industrial Combustion,1973,18.54320193
+South Korea,Industrial Combustion,1974,19.43853523
+South Korea,Industrial Combustion,1975,19.94845829
+South Korea,Industrial Combustion,1976,22.7706361
+South Korea,Industrial Combustion,1977,21.90183283
+South Korea,Industrial Combustion,1978,25.22525639
+South Korea,Industrial Combustion,1979,29.92783546
+South Korea,Industrial Combustion,1980,29.31618619
+South Korea,Industrial Combustion,1981,29.59226866
+South Korea,Industrial Combustion,1982,27.33545506
+South Korea,Industrial Combustion,1983,27.64116713
+South Korea,Industrial Combustion,1984,27.21679542
+South Korea,Industrial Combustion,1985,27.27009178
+South Korea,Industrial Combustion,1986,28.56848741
+South Korea,Industrial Combustion,1987,31.55224448
+South Korea,Industrial Combustion,1988,36.4537001
+South Korea,Industrial Combustion,1989,39.62379092
+South Korea,Industrial Combustion,1990,51.43818269
+South Korea,Industrial Combustion,1991,61.14621781
+South Korea,Industrial Combustion,1992,63.01525599
+South Korea,Industrial Combustion,1993,70.97734451
+South Korea,Industrial Combustion,1994,79.17663264
+South Korea,Industrial Combustion,1995,82.78573498
+South Korea,Industrial Combustion,1996,87.40809091
+South Korea,Industrial Combustion,1997,86.48620361
+South Korea,Industrial Combustion,1998,77.6458842
+South Korea,Industrial Combustion,1999,85.22171645
+South Korea,Industrial Combustion,2000,95.8625778
+South Korea,Industrial Combustion,2001,96.54302913
+South Korea,Industrial Combustion,2002,85.98873297
+South Korea,Industrial Combustion,2003,83.08380114
+South Korea,Industrial Combustion,2004,80.68353212
+South Korea,Industrial Combustion,2005,74.08001054
+South Korea,Industrial Combustion,2006,79.09323311
+South Korea,Industrial Combustion,2007,73.39289515
+South Korea,Industrial Combustion,2008,77.57088878
+South Korea,Industrial Combustion,2009,69.24107961
+South Korea,Industrial Combustion,2010,78.45395901
+South Korea,Industrial Combustion,2011,80.13306579
+South Korea,Industrial Combustion,2012,76.3309706
+South Korea,Industrial Combustion,2013,77.01419113
+South Korea,Industrial Combustion,2014,72.22628193
+South Korea,Industrial Combustion,2015,76.27379809
+South Korea,Industrial Combustion,2016,73.00286576
+South Korea,Industrial Combustion,2017,72.06810154
+South Korea,Industrial Combustion,2018,72.13097171
+South Korea,Industrial Combustion,2019,65.49895451
+South Korea,Industrial Combustion,2020,64.01713326
+South Korea,Industrial Combustion,2021,65.20790015
+South Korea,Industrial Combustion,2022,64.54168067
+South Korea,Industrial Combustion,2023,62.33803196
+South Korea,Power Industry,1973,11.40914303
+South Korea,Power Industry,1974,12.16754766
+South Korea,Power Industry,1975,17.58606584
+South Korea,Power Industry,1976,18.3737866
+South Korea,Power Industry,1977,20.82264705
+South Korea,Power Industry,1978,22.80664491
+South Korea,Power Industry,1979,24.28907278
+South Korea,Power Industry,1980,25.52792899
+South Korea,Power Industry,1981,27.42729223
+South Korea,Power Industry,1982,28.2312611
+South Korea,Power Industry,1983,30.4699573
+South Korea,Power Industry,1984,39.07990576
+South Korea,Power Industry,1985,38.36123225
+South Korea,Power Industry,1986,38.08333354
+South Korea,Power Industry,1987,35.24356202
+South Korea,Power Industry,1988,45.10614374
+South Korea,Power Industry,1989,46.71073109
+South Korea,Power Industry,1990,57.2740755
+South Korea,Power Industry,1991,66.1893213
+South Korea,Power Industry,1992,76.25149143
+South Korea,Power Industry,1993,84.64968553
+South Korea,Power Industry,1994,95.90245266
+South Korea,Power Industry,1995,106.6241758
+South Korea,Power Industry,1996,117.6730768
+South Korea,Power Industry,1997,133.6359292
+South Korea,Power Industry,1998,116.1783535
+South Korea,Power Industry,1999,123.8151993
+South Korea,Power Industry,2000,155.6415756
+South Korea,Power Industry,2001,162.9556255
+South Korea,Power Industry,2002,167.9848174
+South Korea,Power Industry,2003,172.9596862
+South Korea,Power Industry,2004,201.9850673
+South Korea,Power Industry,2005,206.8469431
+South Korea,Power Industry,2006,215.115458
+South Korea,Power Industry,2007,223.0878801
+South Korea,Power Industry,2008,234.8304752
+South Korea,Power Industry,2009,256.5419999
+South Korea,Power Industry,2010,286.1064887
+South Korea,Power Industry,2011,306.8279327
+South Korea,Power Industry,2012,311.371813
+South Korea,Power Industry,2013,304.4529287
+South Korea,Power Industry,2014,298.7572296
+South Korea,Power Industry,2015,305.651498
+South Korea,Power Industry,2016,309.8327986
+South Korea,Power Industry,2017,321.6228343
+South Korea,Power Industry,2018,332.3287318
+South Korea,Power Industry,2019,316.5892244
+South Korea,Power Industry,2020,286.2993638
+South Korea,Power Industry,2021,295.8152551
+South Korea,Power Industry,2022,253.7967597
+South Korea,Power Industry,2023,247.5562159
+South Korea,Processes,1973,7.09295212
+South Korea,Processes,1974,7.435063553
+South Korea,Processes,1975,8.334800395
+South Korea,Processes,1976,9.552734081
+South Korea,Processes,1977,10.97537257
+South Korea,Processes,1978,12.19195326
+South Korea,Processes,1979,14.16429176
+South Korea,Processes,1980,13.31936897
+South Korea,Processes,1981,13.05142664
+South Korea,Processes,1982,13.35003183
+South Korea,Processes,1983,15.07219516
+South Korea,Processes,1984,14.75000468
+South Korea,Processes,1985,14.78690375
+South Korea,Processes,1986,16.34925811
+South Korea,Processes,1987,18.10562042
+South Korea,Processes,1988,20.35312722
+South Korea,Processes,1989,21.9007808
+South Korea,Processes,1990,25.61230796
+South Korea,Processes,1991,31.3085405
+South Korea,Processes,1992,37.22807912
+South Korea,Processes,1993,37.40137116
+South Korea,Processes,1994,41.17176507
+South Korea,Processes,1995,43.01147606
+South Korea,Processes,1996,45.66328312
+South Korea,Processes,1997,49.05928479
+South Korea,Processes,1998,41.87892979
+South Korea,Processes,1999,42.29463794
+South Korea,Processes,2000,44.28953339
+South Korea,Processes,2001,43.87763498
+South Korea,Processes,2002,47.24632252
+South Korea,Processes,2003,49.30670764
+South Korea,Processes,2004,46.79621283
+South Korea,Processes,2005,45.10621984
+South Korea,Processes,2006,47.00860768
+South Korea,Processes,2007,47.58327983
+South Korea,Processes,2008,46.48030701
+South Korea,Processes,2009,42.55266738
+South Korea,Processes,2010,40.8645057
+South Korea,Processes,2011,45.86696954
+South Korea,Processes,2012,45.38045134
+South Korea,Processes,2013,44.72041372
+South Korea,Processes,2014,45.4527622
+South Korea,Processes,2015,47.89905838
+South Korea,Processes,2016,51.64646415
+South Korea,Processes,2017,50.87097718
+South Korea,Processes,2018,48.70036542
+South Korea,Processes,2019,48.32169515
+South Korea,Processes,2020,52.44731563
+South Korea,Processes,2021,55.93253313
+South Korea,Processes,2022,55.85191152
+South Korea,Processes,2023,54.94720977
+South Korea,Transport,1973,7.550423999
+South Korea,Transport,1974,7.102344322
+South Korea,Transport,1975,7.205626077
+South Korea,Transport,1976,7.929562755
+South Korea,Transport,1977,11.90797221
+South Korea,Transport,1978,13.83899521
+South Korea,Transport,1979,17.07003396
+South Korea,Transport,1980,14.52275835
+South Korea,Transport,1981,11.12865833
+South Korea,Transport,1982,12.60774231
+South Korea,Transport,1983,16.14177254
+South Korea,Transport,1984,17.75725152
+South Korea,Transport,1985,19.23312798
+South Korea,Transport,1986,22.39129814
+South Korea,Transport,1987,26.91394288
+South Korea,Transport,1988,30.78885607
+South Korea,Transport,1989,35.08875443
+South Korea,Transport,1990,43.73768904
+South Korea,Transport,1991,49.03731195
+South Korea,Transport,1992,54.51828729
+South Korea,Transport,1993,61.49731894
+South Korea,Transport,1994,64.57183878
+South Korea,Transport,1995,72.47318777
+South Korea,Transport,1996,76.36750705
+South Korea,Transport,1997,78.06529623
+South Korea,Transport,1998,65.16506715
+South Korea,Transport,1999,71.79849018
+South Korea,Transport,2000,77.77708498
+South Korea,Transport,2001,80.98445484
+South Korea,Transport,2002,86.38195053
+South Korea,Transport,2003,88.30054372
+South Korea,Transport,2004,88.9474681
+South Korea,Transport,2005,86.06484891
+South Korea,Transport,2006,85.96437873
+South Korea,Transport,2007,88.63649721
+South Korea,Transport,2008,84.16918778
+South Korea,Transport,2009,85.06659247
+South Korea,Transport,2010,86.61262792
+South Korea,Transport,2011,85.12486799
+South Korea,Transport,2012,87.58424817
+South Korea,Transport,2013,90.8799363
+South Korea,Transport,2014,92.46086567
+South Korea,Transport,2015,98.40023994
+South Korea,Transport,2016,101.3138177
+South Korea,Transport,2017,103.4658045
+South Korea,Transport,2018,101.6563186
+South Korea,Transport,2019,106.2206218
+South Korea,Transport,2020,98.93988638
+South Korea,Transport,2021,103.2321467
+South Korea,Transport,2022,106.587616
+South Korea,Transport,2023,106.125149
+South Korea,Waste,1973,0.150615138
+South Korea,Waste,1974,0.158357007
+South Korea,Waste,1975,0.166141983
+South Korea,Waste,1976,0.174886071
+South Korea,Waste,1977,0.183673265
+South Korea,Waste,1978,0.192555293
+South Korea,Waste,1979,0.201626988
+South Korea,Waste,1980,0.210959475
+South Korea,Waste,1981,0.220199284
+South Korea,Waste,1982,0.229712817
+South Korea,Waste,1983,0.239407396
+South Korea,Waste,1984,0.249134305
+South Korea,Waste,1985,0.258783623
+South Korea,Waste,1986,0.268939438
+South Korea,Waste,1987,0.278996109
+South Korea,Waste,1988,0.28905278
+South Korea,Waste,1989,0.299284032
+South Korea,Waste,1990,0.327497024
+South Korea,Waste,1991,0.4400257
+South Korea,Waste,1992,0.545881538
+South Korea,Waste,1993,0.665065807
+South Korea,Waste,1994,0.702984156
+South Korea,Waste,1995,0.95710369
+South Korea,Waste,1996,1.084560035
+South Korea,Waste,1997,1.202032988
+South Korea,Waste,1998,1.124081933
+South Korea,Waste,1999,1.311251109
+South Korea,Waste,2000,1.749897411
+South Korea,Waste,2001,1.848976958
+South Korea,Waste,2002,1.581179834
+South Korea,Waste,2003,1.59326034
+South Korea,Waste,2004,1.590290324
+South Korea,Waste,2005,1.365978711
+South Korea,Waste,2006,1.516822312
+South Korea,Waste,2007,1.348341819
+South Korea,Waste,2008,1.333304229
+South Korea,Waste,2009,1.296278178
+South Korea,Waste,2010,1.267914314
+South Korea,Waste,2011,1.399235127
+South Korea,Waste,2012,1.539756953
+South Korea,Waste,2013,1.570998155
+South Korea,Waste,2014,1.420462764
+South Korea,Waste,2015,1.542737745
+South Korea,Waste,2016,1.612371464
+South Korea,Waste,2017,1.619729688
+South Korea,Waste,2018,1.600150862
+South Korea,Waste,2019,1.604750291
+South Korea,Waste,2020,1.609125568
+South Korea,Waste,2021,1.614108642
+South Korea,Waste,2022,1.614456078
+South Korea,Waste,2023,1.614803589
