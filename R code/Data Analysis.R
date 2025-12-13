@@ -48,7 +48,7 @@ Indo <- ggplot(Indonesia, aes(x = Year)) +
   # GDP line (primary y-axis)
   geom_line(aes(y = gdp_pct_change, color = "GDP"), size = 1.2) +
   # CO2 line (secondary y-axis)
-  geom_line(aes(y = co2_pct_change, color = "CO2 Emissions"), size = 1.2, linetype = "dashed") +
+  geom_line(aes(y = co2_pct_change, color = "CO2 Emissions"), size = 1.2) +
   
   # Scale for primary y-axis (GDP)
   scale_y_continuous(
@@ -88,7 +88,7 @@ Ind <- ggplot(India, aes(x = Year)) +
   # GDP line (primary y-axis)
   geom_line(aes(y = gdp_pct_change, color = "GDP"), size = 1.2) +
   # CO2 line (secondary y-axis)
-  geom_line(aes(y = co2_pct_change, color = "CO2 Emissions"), size = 1.2, linetype = "dashed") +
+  geom_line(aes(y = co2_pct_change, color = "CO2 Emissions"), size = 1.2) +
   
   # Scale for primary y-axis (GDP)
   scale_y_continuous(
@@ -128,7 +128,7 @@ Chi <- ggplot(China, aes(x = Year)) +
   # GDP line (primary y-axis)
   geom_line(aes(y = gdp_pct_change, color = "GDP"), size = 1.2) +
   # CO2 line (secondary y-axis)
-  geom_line(aes(y = co2_pct_change, color = "CO2 Emissions"), size = 1.2, linetype = "dashed") +
+  geom_line(aes(y = co2_pct_change, color = "CO2 Emissions"), size = 1.2) +
   
   # Scale for primary y-axis (GDP)
   scale_y_continuous(
@@ -168,7 +168,7 @@ Kor <- ggplot(South_Korea, aes(x = Year)) +
   # GDP line (primary y-axis)
   geom_line(aes(y = gdp_pct_change, color = "GDP"), size = 1.2) +
   # CO2 line (secondary y-axis)
-  geom_line(aes(y = co2_pct_change, color = "CO2 Emissions"), size = 1.2, linetype = "dashed") +
+  geom_line(aes(y = co2_pct_change, color = "CO2 Emissions"), size = 1.2) +
   
   # Scale for primary y-axis (GDP)
   scale_y_continuous(
@@ -208,7 +208,7 @@ Jap <- ggplot(Japan, aes(x = Year)) +
   # GDP line (primary y-axis)
   geom_line(aes(y = gdp_pct_change, color = "GDP"), size = 1.2) +
   # CO2 line (secondary y-axis)
-  geom_line(aes(y = co2_pct_change, color = "CO2 Emissions"), size = 1.2, linetype = "dashed") +
+  geom_line(aes(y = co2_pct_change, color = "CO2 Emissions"), size = 1.2) +
   
   # Scale for primary y-axis (GDP)
   scale_y_continuous(
@@ -432,8 +432,8 @@ state_summary_table %>%
 # 4. VISUALIZATION: TIME SERIES OF DI AND STATES
 # -----------------------------------------------------------------------------
 
-# Decoupling states as a categorical ribbon/point plot
-
+# Decoupling states as a categorical ribbon/point plot as well as filtering NA values
+# NA values are 1973
 p_states <- decoupling_results %>%
   filter(!is.na(decoupling_state)) %>%
   ggplot(aes(x = Year, y = Country, fill = decoupling_state)) +
@@ -641,12 +641,12 @@ p_states <- decoupling_results %>%
        select(Country, Year, DI, decoupling_state),
      by = c("Country", "Year")
    ) %>%
-   # Drop years where DI/state is NA (first year or missing)
+   # Drop years where DI/state is NA (first year )
    filter(!is.na(DI), !is.na(decoupling_state))
  
  # Quick check (optional)
- # head(decoupling_sector_panel)
- # count(decoupling_sector_panel, Country, Sector)
+  head(decoupling_sector_panel)
+ count(decoupling_sector_panel, Country, Sector)
  
  # -----------------------------------------------------------------------------
  # 6.2 Descriptive sector comparison: strong vs negative decoupling
@@ -655,6 +655,7 @@ p_states <- decoupling_results %>%
  #   - "good" decoupling years (strong/weak decoupling)
  #   - "bad" decoupling years (expansive negative / strong negative decoupling)
  # This helps identify which sectors are relatively larger in good vs bad years.
+ # We didn't use weak negative decoupling beacuse the cases were looking at is only when GDP increases
  
  # Define "good" and "bad" state groups explicitly
  good_states <- c("strong decoupling", "weak decoupling")
@@ -677,27 +678,6 @@ p_states <- decoupling_results %>%
      .groups           = "drop"
    )
  
- # Optional: save a PNG table summarising sector shares by decoupling group
- sector_decoupling_summary %>%
-   arrange(Country, Sector, decoupling_group) %>%
-   kbl(
-     digits = 3,
-     col.names = c(
-       "Country",
-       "Sector",
-       "Decoupling Group",
-       "Mean Share of CO2",
-       "No. of Years"
-     ),
-     caption = "Average sector CO2 shares in good vs negative decoupling years"
-   ) %>%
-   kable_styling(full_width = FALSE) %>%
-   save_kable(
-     file   = "table_sector_shares_by_decoupling_group.png",
-     zoom   = 2,
-     vwidth = 1400
-   )
- 
  # 6.2.2 Visual comparison: bar plot of sector shares in good vs negative years
  sector_decoupling_plot <- sector_decoupling_summary %>%
    ggplot(aes(x = Sector,
@@ -710,10 +690,10 @@ p_states <- decoupling_results %>%
    ) +
    scale_fill_brewer(palette = "Set2") +
    labs(
-     title    = "Average sectoral CO\u2082 shares in good vs negative decoupling years",
+     title    = "Average sectoral CO2 shares in good vs negative decoupling years",
      subtitle = "Good decoupling = strong/weak decoupling; Negative decoupling = expansive/strong negative decoupling",
      x        = "Sector",
-     y        = "Mean share of total CO\u2082 emissions",
+     y        = "Mean share of total CO2 emissions",
      fill     = "Decoupling group"
    ) +
    theme_minimal(base_size = 12) +
@@ -726,25 +706,18 @@ p_states <- decoupling_results %>%
  
  print(sector_decoupling_plot)
  
- ggsave(
-   "sector_shares_good_vs_negative_decoupling.png",
-   sector_decoupling_plot,
-   width  = 14,
-   height = 10,
-   dpi    = 300,
-   bg     = "white"
- )
+ ggsave("sector_shares_good_vs_negative_decoupling.png",
+   sector_decoupling_plot, width  = 14, height = 10, dpi= 300, bg= "white")
  
  # -----------------------------------------------------------------------------
- # 6.3 Simple regression: sector shares as predictors of DI
+ # 6.3 Country-specific regressions: sector shares as predictors of DI
  # -----------------------------------------------------------------------------
  # Purpose:
- #   Explore whether variation in the Tapio decoupling index (DI)
- #   is statistically associated with sector composition.
- #   This is exploratory, not causal.
+ #   For each country separately, explore whether variation in the Tapio
+ #   decoupling index (DI) is associated with its own sectoral CO2 composition.
+ #   This answers: which sectors matter most for decoupling in each country?
  
  # 6.3.1 Reshape sector shares to wide Country–Year format
- # We create one row per Country–Year, with one column per sector's share.
  sector_shares_wide <- sector_shares %>%
    select(Country, Year, Sector, sector_share) %>%
    pivot_wider(
@@ -759,77 +732,72 @@ p_states <- decoupling_results %>%
    filter(!is.na(DI)) %>%
    left_join(sector_shares_wide, by = c("Country", "Year"))
  
- # Optional: inspect available sector columns
- # glimpse(di_sector_wide)
- 
- # 6.3.2 Example: pooled regression DI ~ sector shares
- # (You can refine this per country or with fixed effects as needed.)
- # Here we fit a simple linear model for illustration.
- 
+ # 6.3.2 Identify sector columns (predictors)
  sector_cols <- setdiff(names(di_sector_wide), c("Country", "Year", "DI"))
  
- # Build formula DI ~ all sector share columns
- reg_formula <- as.formula(
-   paste("DI ~", paste(sector_cols, collapse = " + "))
- )
+ # 6.3.3 Run a separate linear regression for each Country
+ country_lm_results <- di_sector_wide %>%
+   group_by(Country) %>%
+   group_modify(~ {
+     sector_terms <- paste0("`", sector_cols, "`")
+     reg_formula  <- as.formula(
+       paste("DI ~", paste(sector_terms, collapse = " + "))
+     )
+     
+     model <- lm(reg_formula, data = .x)
+     
+     broom::tidy(model) %>%
+       mutate(
+         n_obs = nrow(.x)
+       )
+   }) %>%
+   ungroup()
  
- # Fit model
- di_sector_lm <- lm(reg_formula, data = di_sector_wide)
- 
- # Tidy summary (for interpretation in report)
- di_sector_lm_tidy <- broom::tidy(di_sector_lm)
- 
- # Optional: save regression results as PNG table
- di_sector_lm_tidy %>%
-   kbl(
-     digits = 3,
-     caption = "Regression of Tapio decoupling index on sectoral CO\u2082 shares (pooled panel)"
+ # 6.3.4 Clean coefficient names ONCE (outside the loop)
+ country_lm_results_clean <- country_lm_results %>%
+   mutate(
+     term_clean = case_when(
+       term == "(Intercept)" ~ "Intercept",
+       TRUE                  ~ term
+     )
    ) %>%
-   kable_styling(full_width = FALSE) %>%
-   save_kable(
-     file   = "table_regression_DI_sector_shares.png",
-     zoom   = 2,
-     vwidth = 1600
+   select(
+     Country,
+     term        = term_clean,
+     estimate,
+     std.error,
+     statistic,
+     p.value,
+     n_obs
    )
  
- # -----------------------------------------------------------------------------
- # 6.4 Optional scatter plots: DI vs key sector shares
- # -----------------------------------------------------------------------------
- # These plots help visualise associations for selected sectors (e.g. Power, Industry).
+ # 6.3.5 Create one PNG table per country
+ unique_countries <- unique(country_lm_results_clean$Country)
  
- # Choose a few key sectors you want to highlight (must match names in sector_data$Sector)
- key_sectors <- c("Power Industry", "Industrial Combustion", "Transport")
- 
- # Loop-style approach (no saving inside loop to keep it explicit and reproducible)
- for (s in key_sectors) {
-   if (s %in% colnames(di_sector_wide)) {
-     p <- di_sector_wide %>%
-       ggplot(aes_string(x = s, y = "DI", color = "Country")) +
-       geom_point(alpha = 0.6) +
-       geom_smooth(method = "lm", se = FALSE, linewidth = 0.8) +
-       scale_x_continuous(labels = scales::percent_format(accuracy = 1)) +
-       labs(
-         title = paste("Tapio decoupling index vs", s, "CO\u2082 share"),
-         x     = paste(s, "share of total CO\u2082 emissions"),
-         y     = "Tapio decoupling index (DI)",
-         color = "Country"
-       ) +
-       theme_minimal(base_size = 12) +
-       theme(
-         plot.title = element_text(face = "bold", hjust = 0.5),
-         legend.position = "bottom"
-       )
-     
-     print(p)
-     
-     ggsave(
-       filename = paste0("scatter_DI_vs_", gsub(" ", "_", s), "_share.png"),
-       plot     = p,
-       width    = 10,
-       height   = 7,
-       dpi      = 300,
-       bg       = "white"
+ for (ctry in unique_countries) {
+   country_table <- country_lm_results_clean %>%
+     filter(Country == ctry) %>%
+     select(
+       Variable       = term,
+       Estimate       = estimate,
+       `Std. Error`   = std.error,
+       `t-Statistic`  = statistic,
+       `p-Value`      = p.value,
+       `No. of Years` = n_obs
      )
-   }
+   
+   country_table %>%
+     kbl(
+       digits  = 3,
+       caption = paste(
+         "Linear regression of Tapio decoupling index on sectoral CO\u2082 shares –",
+         ctry
+       )
+     ) %>%
+     kable_styling(full_width = FALSE, font_size = 10) %>%
+     save_kable(
+       file   = paste0("table_regression_DI_sector_shares_", gsub(" ", "_", ctry), ".png"),
+       zoom   = 2,
+       vwidth = 1200
+     )
  }
-
